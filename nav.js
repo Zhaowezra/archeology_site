@@ -1,5 +1,5 @@
 
-    $.get("nav.html", function(data){
+    $.get("/nav.html", function(data){
       $("#nav-placeholder").replaceWith(data);
       let path = window.location.pathname
       path = path.slice(1, path.length - 1)
