@@ -1,0 +1,355 @@
+HOW CAN SPIN, PLY, AND KNOT DIRECTION CONTRIBUTE TO 
+UNDERSTANDING THE QUIPU CODE? 
+
+Marcia Ascher 
+Essential to quipu analysis is identification of the logical structure of the quipu and the internal relationships of the data within that structure. The identification process relies on examining, in detail, the colors, placement, and spacing of the quipu cords, and the knot types and positions on the cords. Spin, ply, and knot directionality have recently become avail­able for 59 otherwise well-described quipus. Here, I examine this additional information in the context of the logic of the quipus. Analysis shows that for these quipus, except for three in which the main cord differs 
+from the other cords, spin and ply are uniform for all the cords on a quipu. For the large majority of the quipus (about 81 percent), knot directionality is also uniform throughout. The 19 percent for which knot directionality is mixed are presented and discussed individually. On them, knot directionality conforms to, and plays a role in, the overall logic of the quipu. It is clear that spin, ply, and knot directionality are not chosen by the quipu-maker on a cord-by-cord basis and they do not serve to distinguish between quantitative and non-quantitative data. 
+Para analizar las quipus es esencial identificar su estructura logica y como se relacionan internamente las datos dentro de 
+esa estructura. El proceso de identificacion depende en el examen detallado de las co/ores, la colocacion, y la distancia de los cordones ademds def tipo de nudo y su posicion en el cordon. Ha estado disponible recientemente informacion sabre la orien­tacion de la torsion, las hebras, y Los nudos de 59 quipus ya harto descritos. Examino esta informacion adicional en el con­texto de la logica de las quipus. Mi andlisis demuestra que en estos quipus, con la excepcion de tres de ellos en las cuales el cordon principal difiere def resto, son uniforme la torsion y las hebras de todos sus cordones. En la mayorfa (un 81 par ciento ), la orientacion def nudo tambien es uniforme. Discuto individualmente el 19 par ciento cuyos nudos tienen orientacion mixta. En estos, la orientacion del nudo concuerda, y juega un papel, en la logica total def quipu. Resulta entonces obvio que el creador def quipu no selecciona la orientacion de la torsion, las hebras, y el nudo para cada cordon individualmente y que estos detalles no se pre.nan para distinguir entre datos cuantitativos y no cuantitativos. 
+
+I
+n 2002, my colleague and I made available a website containing a database with the details of over 200 quipus. This is part of a long-term project that we began some 30 years ago when we undertook a search for extant quipus. We located about 400 in museums and private collections spread over three continents. Of these we exam­ined about 300 and recorded and analyzed about 215. Many of the others we saw were too frag­mentary and others that we did not see were beyond the scope of our travels. Our ultimate goal was the decipherment of quipus. Recognizing that this would require careful work and the contributions of other scholars, our study had three objectives; the first was to establish and use a standardized for­mat to record the details of every quipu we exam­ined and to make these detailed descriptions available for the use of others. This database was published as Code of the Quipu: Databooks I and II (Ascher and Ascher 1978, 1988) and, to make the data even more easily accessible, these Data­books are now available in their entirety at http:// instruct l .cit.comell.edu/research/quipu-ascher/. 
+
+In the database, after an introduction to the parts and construction of quipus, there is, for each quipu, a description that includes the owner, the owner's identification number, and information on prove­nance or acquisition, and cord by cord, length, posi­tion relative to other cords, means of attachment to other cords, color keyed to the National Bureau of Standards color chart, the construction mode of mul­ticolored cords, knot positions, knot types, and whether the cord is complete or broken. Also, any special construction features are noted. Our second 
+MarciaAscher• 524 Highland Road, Ithaca, NY 14850 (aschaca@clarityconnect.com) 
+
+Latin American Antiquity, 16(1), 2005, pp. 99-111 Copyright© 2005 by the Society for American Archaeology 
+99 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:51:08, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/30042488 
+objective was to study and analyze each quipu indi­vidually. Hence, each description is followed by our analysis of the logical structure of the quipu and our observations of any numerical or logical relation­ships within it. The introduction to the Databooks also includes the whereabouts of as yet unstudied quipus, as well as references to about 60 more quipu descriptions thathad been published by others in dif­ferent forms but in sufficiently useful detail. 
+Building on the analyses of these qui pus that we personally examined and detailed, and on those published by others, we were able to establish numerous important principles for the reading and interpretation of quipus. Our interpretive volume (Ascher and Ascher 1997) and subsequent writings (e.g., M. Ascher 1983, 2002; Ascher and Ascher 1989; R. Ascher 2002) elaborate on and illustrate these principles and apply them to actual quipus. The principles reflect the learned, shared, stan­dardized system used by the quipu-makers. 1 Most significant to the reading of quipus is the realiza­tion that each is an expression of the same under­lying system while having a logical structure particular to it. The logical structure is created pri­marily by the spatial relationships, color coding, means of cord attachments, and cord juxtaposi­tions. The structure provides the framework or for­mat within which the data, that is, the knots on each cord, are embedded. The data can only be meaningfully interpreted or further analyzed within the logical framework of the quipu. 
+The need to work within the structure of the quipu cannot be too strongly emphasized, no mat­ter whether the data are to be interpreted as hav­ing statistical, calendric, narrative, weaving instructions, or other content. In our culture, when looking at a paper document, we must first decide which is the top or bottom and, for example, whether it has the format of a tax form, a page of a book, a page of a telephone directory, a cash reg­ister tape, or a spreadsheet. Then, for example, if it is a page of a book, we know we must read the words in the line consecutively and then the lines sequentially, while on a spreadsheet it is the columns and rows and their intersections that con­cern us. Much of the information in any document is carried in its format. But, even more impor­tantly, the format gives coherence and meaning to the information carried by the data within it. A word here or a number there may be interesting but cannot be meaningfully read or interpreted apart from its place within the format. 
+
+
+The data recorded on the quipus, by and large, are numbers, and where they are made up of sev­eral digits, they can be interpreted in the base ten positional system. That is, clusters of knots repre­sent digits and clusters closer to the main cord are 
+valued at higher powers of ten. Thus, reading away from the main cord, a cord with, say, six, five, four, two knots per cluster can be interpreted as our num­ber "six thousand five hundred and forty-two." But, ,
+in order to identify zeroes within the number, the · alignment of knot clusters from cord to cord is also significant. This underscores that quipu cords can­not be interpreted individually; even seemingly straightforward knot values on cords must be viewed in the context of neighboring cords of similar types. Additionally significant is that units positions are highlighted by knots of a special type; they are long knots of several turns (or a figure-eight knot where a "one" is intended), in contrast to clusters of sin­gle knots in the other digits positions (Figure 1 ). The special identification of the units position is crucial, as it enables the reader to know the difference between a single number on a cord and several num­bers on a cord; that is, depending on the knot types, the reader can distinguish between 745 (seven hun­dred and forty-five) and 7, 45 (seven, forty-five), or 74, 5 (seventy-four, five), or 7, 4, 5 (seven, four, five). 
+Numbers can be quantities or magnitudes, famil­iar to us as answering questions such as how much?, how many?, or how long?, and having order and being amenable to arithmetic. But numbers can also be labels, that is, forms that are symbolic identifiers that are part of a non-quantitative symbolic system. Our number 71,403 (seventy-one thousand four hundred and three) is a quantity, but 7114/03 is a symbolic form that we recognize as part of our dat­ing system (July fourteenth, two thousand and three). Similarly, the number 2,072,763,493 is a quantity but 207-276-3493 is a symbolic form that identifies a particular telephone in the state of Maine. Each of these forms is part of a learned, shared, sym­bolic system that utilizes numbers. Other examples of learned, shared systems of symbolic identifiers in our culture are knitting instructions, dance nota­tion, musical notation, chemical notation, and math­ematical notation. The learned and shared use of diverse structures and formats within which num­bers are used both as quantities and as symbolic 
+
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:51:08, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/30042488 
+
+Long knots with three turns 
+Figure 1. Knots. 
+fonns is what makes the quipu recording system a general system, or, what is most commonly referred to as "concept writing" (R. Ascher 2002). 
+All of the above is a preface, but an important preface, to looking at spin, ply, and knot direction­ality on quipus. In the late 1970s, after many of our descriptions were complete, Junius Bird, a renowned anthropologist and an expert in pre­columbian textiles, called to our attention that spin, ply, and knot directionality were other features of the cords that we probably should have included. I was, therefore, quite pleased to see an article (Urton 1994) listing the spin and ply and knot directions for some quipus in the Museum fiir VOlkerkunde, Berlin, and another (Urton 1997) also including this information for some quipus at the American 
+
+
+. Museum of Natural History. Of the 104 qui pus from these two museums detailed in our database, Urton reported on 59. For these 59, our cord-by-cord descriptions had been used and annotated and the information was willingly shared upon request. Although I make some observations on all of the quipus, I focus my attention primarily on these 59 for which there is cord-by-cord infonnation. 
+Spin and Ply 
+
+
+Of the 59 quipus for which there is complete spin 
+and ply information, all but three have all cords, including their main cords, Z-spun and S-plied. The three exceptions have, instead, just their main cords different from their pendant cords, that is, their main cords are S-spun and Z-plied. 
+When the three exceptions are examined further, they are all very clearly quantitative and all very clearly structured. For one of them, AS143, the numerical relationships are so distinctive that the quipu is specially discussed in Code of the Quipu (Ascher and Ascher 1997: 145-149). The pendants are formed into five groups. The quantities repre­sented on the pendants are quite diverse, ranging from 2,026 to 22,469, but, depending on their posi­tion within their group, their ratios are consistent. And, one of the pendant groups, position by posi­tion, carries the sum of the values in the other four groups. Another of these quipus (AS 126) has numerical values so orderly that one suspects that the document is a plan rather than a report. For example, in one of its three parts, there are 60 pen­dants separated into 10 groups of six pendants each that carry only repetitions of the values 11, 12, 20, and 21. Four of the six groups are identical in the order in which the quantities appear and the values on the 60 pendants sum to 1000. The third of these qui pus (AS 175) is less striking in its values; it will be discussed in more detail later because of its knot directions. 
+Based upon all of these 59 quipus, and also on all but one of the others for which spin and ply is described in the two references cited, it can be con­cluded that while occasionally the main cord dif­fers from the rest of the cords, the pendants on each quipu are uniform in their spin and ply. (Most are uniformly Z-spun and S-plied but some few are uni­formly S-spun and Z-plied.) Thus, I conclude that the spin and ply of the pendants is a characteristic of the quipu and do not represent choices being made by the quipu-maker on a cord-by-cord basis. Further, it can be said conclusively that main cord spin and ply differing from the pendants on a quipu does not set the quipu apart as non-quantitative or serve to distinguish quantitative from non­quantitative quipus. 
+Knot Direction 
+Most of the qui pus in Urton's (1994, 1997) reports are internally uniform in their knot directions; that 
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:51:08, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/30042488 
+is, on any particular quipu, all single knots share a direction, all long knots share a direction, and all figure-eight knots share a direction. Clearly, for these quipus, the decision as to knot direction was not made cord by cord; it is, rather, characteristic of the entire quipu. First I discuss these and then turn my attention to those that show internal variation. 
+Urton (1994) raises the question as to whether knot direction is consistent with provenance, where he designates provenance as a region such as Nasca or Pachacamac. His conclusion is that it is not. Our examination of the acquisition records in both the Museum fiir Vi:ilkerkunde, Berlin, and the Ameri­can Museum of Natural History, New York, show that the information on provenance is vague at best; on specific archeological context it is non-existent; and, in general, it is insufficient to use as a basis for any hypotheses or conclusions. (We do, nonetheless, include in our Databooks whatever information the records show.) Although the infor­mation is scant, there is some consistency of knot directions within acquisition groups, that is, groups of quipus that were given to the museum together. For example, S-knots are used throughout on AS127, AS128, andASl 76, all labeled Nasca and given to the museum in 1933, in contrast to AS 136 and AS 140, which basically use Z-knots through­out with a few scattered S-knots, also labeled Nasca but given to the Museum in 1904. Another group, AS154, AS155, and AS130, designated as origi­nating near Lima, given in 1907, share the use of Z-knots for single knots and long knots, but S­knots for the rare figure-eight knots. AS 194 and AS195, also acquired together, not only share the same knot directions, but are almost identical in for­mat and in the values recorded on them. Although this is not enough of a basis to reach any solid con­clusion, it does suggest that knot direction may be characteristic of a quipu but, furthermore, a char­acteristic shared by a group of qui pus that have the same specific provenance, that is, quipus that were collected at the same time, in the same place, or were made by the same quipu-maker. 
+Because there are two possible knot directions for each of three knot types (see Figure 1), there are theoretically, in all, eight different combinations of knot directions. Curiously, three of the eight pos­sibilities do not occur on any of the qui pus included in these references. That is, there are no quipus for which the single knots, long knots, and figure-eight knots have directions Z, S, S, or S, Z, Z, or S, Z, S respectively. It is also noteworthy that among those with uniform directions in the 59 of the study group, Z-knots for both the single and long knots are most prevalent (about 56 percent, which is more than double what would be expected if the directions were randomly decided), and S-knots for both sin­gle and long knots are next prevalent (about 27 per­cent). Thus, although there are theoretically eight possible combinations, three never occur, and the two in which single and long knots have the same direction constitute 83 percent of the quipus. 
+
+
+As noted, most of the qui pus are internally uni­form in their knot directions, but, for about 18 per­cent of them, there is internal variation in the knot directions. Similarly, there is internal variation in about 19 percent of the 59 quipus for which there is cord-by-cord information. I will, therefore, focus on these quipus to see how knot direction fits into the overall logical-numerical system. For each,2 I discuss the logical structure of the quipu and specif­ically examine the knot directions within that framework. After looking at them individually, we can see what can be learned from them when taken together. 
+Knot Direction within the Quipu Structure 
+ASJ04 (Nil) 
+ASI04(Nl 1) is a case in which the variation in knot direction clearly reflects and reinforces the log­ical structure of the quipu. lt consists of 21 pendant cords, all of the same color. By spacing along the main cord, the pendants form four groups, with the first group set off from the other three groups by a larger space. (The phrase "first group" implies a reading direction along the main cord. All of our descriptions orient the reading in the same direc­tion, namely from the twisted end of the main cord to the knotted end. It is, I believe, very important that any generalizations about quipus or compar­isons of quipus begin by recognizing the need to orient them in the same direction.) The first group is further distinguished from the other groups by the order of magnitude of the values on the pen­dants; with one exception, the values in the first group range from 18,000 to 37,000, whereas the values in the other groups are in the range of 1 ,300 
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:51:08, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/30042488 
+to 3,400. These indicators of separation of the first group of values from the other three is further borne out by the knot direction. For the first group of val­ues, all of the single knots in the tens position and higher are S-knots and all of the units position knots are Z-knots, while for the other three groups the opposite is true: all of the single knots are Z-knots and all of the units position knots (long knots and figure-eight knots) are S-knots. 
+AS/63 
+AS 163 consists of a single cord and then, by spac­
+ing and color differences, two groups of 12 pen­
+dants each. It also contains what we have termed a 
+"dangle end cord," that is, a cord whose twisted end 
+is linked through the twisted end of the main cord 
+(Ascher and Ascher 1997: 17, Figure 2.6). The form 
+of the attachment is quite distinctive and sufficiently 
+standardized that we have encountered this same 
+construction on 10 qui pus that are unrelated, attrib­
+uted to different provenances, and now housed in 
+different museums. In general, the dangle end cord 
+is a summary cord, sometimes, as in this case, car­
+rying the sum of a clearly identifiable subset of the 
+values on the quipu. For AS 163, the value on the 
+dangle end cord is the sum of the values on the 12 
+pendants in the first group. 
+With the exception of just one knot, all of the 
+knots on the quipu, regardless of knot type or posi­
+tion, are S-knots. The single exceptional knot is in 
+the units position of a three digit number. This 
+exceptional knot is found on the dangle end cord, 
+thus consistent with and further highlighting this 
+as a special value on the quipu. (Examination of 
+the knots on dangle end cords on other quipus 
+shows that this use of an anomalous knot on the 
+dangle end cord is not a characteristic of the cord 
+type.) 
+
+ AS/36 
+AS 136 is particularly interesting because it is sus­pended from a carved wooden bar. The quipu has 180 pendants that are separated into two parts by a marker and also by the manner in which the quipu is attached to the bar. Each part has 10 groups of nine pendants each, which by color patterning are further separated into subgroups of two, two, and five pendants each. Eighty-three of the pendants 
+have one or two subsidiary cords so that there are; in all, 102 subsidiaries. 
+All of the knots on these 282 cords are Z-knots with the exception of eight S-knots. These S-knots are anomalous in that they differ from what is gen­erally used on the quipu. In the first part of the quipu, two pendants and one subsidiary each have one anomalous knot and, in the second part, five pendants each have one anomalous knot. That is, of the 180 pendants on the quipu, seven have one anomalous knot each, and for the 102 subsidiaries, one has an anomalous knot. Seven of the eight knots are in the units position of the number rep­resented on the respective cords, and one is in the hundreds position. It is very important to note that the anomalous knots affect only a single digit in the number rather than all of its digits. 
+Except for the observations that all of the pen­dants with an anomalous knot are among the 83 that carry subsidiaries, and that the five of these that are in the second part are all in its first group, there do not seem to be any other striking associations of these knots with the quipu' s logical structure or with the numerical and arithmetic relations within it. 
+Quipu AS 136 is one of a pair of qui pus acquired together by the Museum in 1904 with their prove­nance given as Nasca. The pair, AS 136 and AS 140, has many similarities. For example, each is attached to a carved wooden bar; each has 180 pendants sep­arated into two parts of 10 groups each with nine pendants per group within which, by color pat­terning, there are subgroups of two, two, and five pendants each; the basic cord colors used are the same; and, for every group on both quipus the numerical value on the first pendant in the group is the maximum value in the group. I can now add that the spin and ply directions of the cords are the same on both quipus, and with the exception of the eight anomalous knots discussed, the knot direc­tions are the same on both. There are, however, no anomalous knots on AS 140. Quipus AS 136 and AS 140 are discussed and shown in Code of the Quipu (Ascher and Ascher 1997:97-100) and are discussed in considerably more detail in the Data­book (See, in particular, the Observations section for AS136 [Ascher and Ascher 1978:891-896)). 
+
+AS153 
+AS 153 consists of a single cord with no knots fol­lowed by two groups of 10 pendants each. The groups are set off by spacing along the main cord, but, in addition, they both exhibit the same color 
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:51:08, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/30042488 
+Group l 
+
+
+7 6 90&1 157 J]_&l 
+
+Group 2 1 Ou 10 52 104 
+Group3 0 25 21 
+Group4 0 32 
+
+Group 5 0 0 
+Group 6 0 0 
+Note l: The value on the subsidiary of the fifth pendant is written 13& 1 because there is a long knot of three in the units position followed by a figure-eight knot somewhat below it. Similarly, the value on the fourth pendant is written as 90& 1 because the figure-eight knot is in a position that is lower than the standard units position on these pendants. 
+Note 2: The values on the last two pendants in the first group are the sums of the values on the corresponding pendants in the subsequent groups. That is, 91 =52+25+14 +0+0 and 157= 104+ 21 +3 2+0+0. 
+Figure 2. Quipu AS165. 
+patterning. Each has six pendants of one color fol­lowed by two of another color, and then two more of the first color. Designating the colors Cl, C2, and C3, the pendant colors are: 
+Group 1: Cl, Cl, Cl, Cl, Cl, Cl, C2, C2, Cl, Cl Group 2: C3, C3, C3, C3, C3, C3, C2, C2, C3, C3 
+In both groups, the first subsidiary on a pendant is color C 1 and, where there is a second subsidiary, it is another color. The values on the pendants range from one to 54, and there are some arithmetic rela­tionships between them. For example, in Group 1, the sum of the values on the Cl-colored pendants equals the sum of the values on the Cl-colored subsidiaries, and the value on the tenth pendant in Group 2 equals the sum of the values on the first nine pendants in Group 1. 
+For all three knot types, the knots on the quipu are primarily Z-knots. However, there are several S-knots in both the tens and units positions both on some pendants (five of them) and on some sub­sidiaries (eight of them). The only apparent con­sistency is that the S-knots on pendant cords only appear on Cl-colored pendants that have sub­sidiaries, and the S-knots on subsidiaries are only on CI -colored subsidiaries. 
+
+ASl65 
+AS 165 contains 19 pendant cords separated by spacing along the main cord into six groups of five, four, three, three, two, and two pendants respec­tively. Two of the pendant cords (the last cord in the first group and the first cord in the second group) have one subsidiary each. Although the groups dif­fer in number of pendants, the color coding of the cords is key to understanding that the last two cords in each group are associated. Figure 2 shows the values on the pendants in a tabular form that exhibits this association. All of the knots are Z­knots with the exception of those forming the dig­its that are underscored on the figure. These six anomalous knots are on the only two subsidiaries and also on two individual digits of two pendants. 
+ASl92 
+AS 192 is a small quipu with just 10 pendant cords 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:51:08, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/30042488 
+Pendant position 1 2 3 4 5 6 7 8 9 10 
+Value 16 10 13 10 11 7 7 36
+
+110 49J.2, 64
+, 
+
+Note I: 	The second subsidiary, with value 39, has the anomalous knots. 
+Note 2: 	Pendant I = 110 = 16 + 10 + 13 + 10 + 11 + 7 + 7 + 36 =sum of pendants 3-10. Subsidiary 1=4 9 = 16 + 10 + 13 + 10 =sum of pendants 3-6. Subsidiary 2 = 39 = 16 + 10 + 13 =sum of pendants 3-5. Subsidiary 3 = 64 = 16 + 10 + 13 + 11+7 + 7 =sum of pendants 3-5 and 7-9. 
+Note 3: Although we do not see any clear calendric association, we note that 110 is four sidereal months and that the sum of all the values on the quipu is 407, which has been noted as significant in a calendric textile. Further, although not in an order that can be directly matched to it, the numbers 10,13, 10, 11, 7, 7 appear in Table 15.2 (Zuidema 
+1977) describing the arrangement of huacas in the Ceque system. 
+Figure 3. Quipu AS192. 
+and three subsidiary cords on the first pendant. By spacing along the main cord, the pendants form a single group, all of the same color. The first two subsidiaries differ in color from each other and from the pendants, while the third subsidiary shares the color of the pendants. All of the knots on the pendants and subsidiaries are S-knots with the exception of the knots on the second subsidiary, which are all Z-knots. The numbers on the quipu and the arithmetic relationships among them make the quipu an interesting puzzle as indicated in the notes accompanying Figure 3. The subsidiary with the anomalous knots adds another clue to the puz­zle but does not resolve it. Figure 3 presents the details of this intriguing quipu. 
+ASJJ3 
+AS 113 is a very clearly structured quipu. Markers and spacing along the main cord separate the quipu into four distinct parts. Part 1 has four groups of 12, 11, 11, and l 0 pendants respectively; Part 2 has five groups of 12 pendants each; Part 3 has five groups of 11 pendants each; and Part 4 has a sin­gle pair of pendants. Each of the 14 groups in Parts 1, 2, and 3 has the same color pattern: four white pendants followed by a pendant made of reddish brown and white combined, then a pendant of mod­erate brown and white combined, and then as many white pendants as are needed to complete the group.3 (The single exception to this pattern is the last cord of the sixth group, which is moderate brown and white rather than just white.) 
+
+As there are no knots on any of the 44 pendants in the last four groups, I believe that the quipu was never completed. In all of the other groups, the value on the pendant in the first position is the max­imum in the group, and, furthermore, any values in the hundreds are either on the first or second pen­dant in the group. With the exception of five scat­tered values of zero, all the other numbers are two-digit numbers, that is, they are between 11 and 
+95. 
+The knot directions are, however, quite per­plexing. With the exception of three units digit knots, all of the knots on the first 19 pendants are Z-knots. Then, for all except the knots in the tens positions of five numbers, the remaining knots are S-knots. This abrupt change in knot direction and in the digits affected does not occur at the start of a part, a group within a part, or a color subgroup. There is no apparent pattern to the placement or values of the numbers with anomalous knots. The one pendant noted above as not fitting the color pat­tern, is, however, one of the cords with an anom­alous knot. A further curiosity is that in one cluster of single knots forming a tens position digit, some in the cluster are knotted in one direction and some in the other. 
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:51:08, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/30042488 
+
+ASl99 
+AS 199 is one of the most interesting among the more than 200 quipus studied. What especially attracts attention is the importance of directional­ity in its construction and reading. This quipu illus­trates that knot direction, too, is an aspect of the logic of the quipu structure. 
+With the exception of an extra pendant in the first group, AS 199 consists of 12 groups of six pen­dants plus a top cord in each group. (The main cord is broken just after the last group, and the quipu may well have continued.) Only about 10 percent of quipus have top cords, that is, cords that when viewed in relationship to the main cord held hori­zontally, fall in a direction opposite to the pendant cords. The top cords fall upward as contrasted to pendant cords that fall downward. When read as a quantity in the base ten positional system, the value on a top cord generally sums the values on the group of pendants with which it is associated. This is true for AS 199. (For the first group, the first pen­dant, noted above as an extraneous pendant, is not included the sum.) 
+In general, top cords can be attached in two dif­ferent ways. One form of attachment is directly to the main cord, in the center of the group of pen­dants with which the top cord is associated; in the other form, the cord is passed, before looping it, through the loops of the associated pendants, thus uniting them into a group. Both forms are common. I conclude that the two forms do not represent dif­fering regional styles, but differ in their signifi­cance, as they are not mutually exclusive. On one quipu (AS66) containing 24 groups of eight pen­dants and a top cord each, the first 17 top cords are attached to the main cord and centered in their group, and then for the next seven groups, the first three and the last three groups have top cords unit­ing the pendants. A distinctively colored cord also marks this break between the first 17 groups and the next seven. For AS 199, the top cords unite the groups. However, when a top cord is looped through the pendants, it can emanate from the right of the group or the left of the group. On AS199, some emanate from the right and some from the left. This is l}Ot the only quipu on which this occurs. On apbther quipu with top cords emanating from both 
+
+irections (AS207 A), the group with the top cord emanating from the left sums, position by position, the nine other groups with the top cords emanat­
+ing from the right. Thus, this left/right distinction can be identified with a difference in the groups. For AS 199, the role of the left/right distinction is not as apparent. (Top cords on Groups 2, 5, 7, 10, and 12 emanate from the right and the others from the left.) 
+The color patterning of pendants is complex. Just three of the groups (the first, fourth, and eleventh) have all the pendants in the group the same color. In each of these three groups, the top cord is the same color as the pendants. Some of the other groups have the first half of the group one color and the other half another color, while others are less consistent. In some of these other groups, the color of the top cord differs from all the cords in the group. 
+
+The issue of directionality also arises in the numerical interrelationships within the quipu. That the data are quantitative is confirmed by the fact that the top cords carry the sums of the pendant val­ues. In addition, there are numerous other numer­ical relationships among the groups that are consistent from group to group. What is particu­larly significant about the relationships is that they become evident only when some groups are read right to left and others left to right. For example, position by position, the um of the values in Groups 2 and 6 appear on the pendants in Group 5, but only if the values in Group 5 are read in the reverse order. Specifically, the values on the suc­cessive pendants in Group 2 are 33, 0, 2, 13, 0, 2; those in Group 6 are 64, 44, 55, 201, 46, 53; and those in Group 5 are 55, 46, 214, 57, 44, and 97. Figure 4 contains, group below group, all of the val­ues on the quipu. (For simplicity, numbers on two broken cords have been interpolated, and a proba­ble transcription error corrected.) To make the numerical relationships apparent, I have, however, written some of them in their actual order on the quipu (designated by) and some in reverse order (designated by f-). The directions used in the fig­ure were guided, in part, by the colors, but pri­marily by the fact that they maximize the number and consistency of numerical interrelationships. This ordering does not imply that the pendants on the quipu were or should be physically reversed, but rather that the relationships inherent in the data are better seen by some reverse readings. Another relationship that can be read from the table is that, 
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:51:08, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/30042488 
+Top Cord 
+12 16 146Group 1 +-­24 
+
+Group 2 -+ 33 0 2 13 0 2 50 
+Group 3 -+ 33 161 18 327 
+
+4 +---2 9 9 2 23 5 50 
+Group 5 +-­214 46 55 513 
+
+201 46 463Group 6 -+ 64 44 
+Group 7 -+ 17 0 71 21 14 73 196 8 +---25 80 54 219 55 56 489 
+Group 9 -+ 99 67 232 64 71 587 
+
+Group 10 +---23 83 40 44 242 60 492 
+Group 11-+ 100 110 433 90 104 922 
+
+17 0 60 8 12 30 127
+12 +-­
+
+Figure 4. Values on Quipu AS199 (actual order ---> , reversed order <----). 
+position by position, the sum of the values in the same position in the first four groups always appears in the next position in a later group. That is, reading down the first column, the first position values in the first four groups are 15, 33, 33, 2 and their sum, 83, is in a later group (Group 10) in the second column. Similarly, second position values in the first four groups are 24, 0, 34, 9 and their sum, 67, is in a later group (Group 9) in the third position. The sum of the third position values is in Group 5, position 4; the sum of the fourth position values is in Group 9, position 5; and the sum of the ; fifth position values is in Group 11, position 6. 
+There are several other relationships involving 
+positional sums, but most important is that all of 
+them bear out that the first four groups form a unit 
+distinct from the rest of the groups. Notice also that 
+the patterning of the reading order similarly sug­
+gests that the groups form sets, namely, Groups 1-4 
+(backwards, forward, forward, backward), Groups 
+5-8 (backwards, forward, forward, backward), and 
+Groups 9-12 (forward, backward, forward, back­
+ward). 
+When the knot directions are added to what has already been interpreted about the logic of the quipu, they conform to and confirm the structure. With the exception of the knots on one cord, all the knots in each group have the same direction, but that direction differs for the first and fourth groups. That is, Groups 1 and 4 have S-knots while the other groups have Z-knots. Hence, the knot directions also set off the first four groups, and within those four groups have the same reversal pattern as do the readings. Groups 1 and 4 also share in having their top cords emanate from the left and in having all the pendants and top cords in the group unified in color. (See Figure 5, which summarizes the read­ing, top cord, and knot directions, and the color pat­terns.) 
+Finally, I return to the single exception to the uniformity of knot direction within a group. The exception is the first cord in the first group that has Z-knots, in contrast to the rest of the group. I ear­lier noted this cord as set apart by being a seventh cord in groups that otherwise had six pendants and by having its value omitted from the sum on the 
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:51:08, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/30042488 
+Reading order B F F B B F F B F B F B Top cord side L R L L R L R L L R L R Knot direction s z z s z z z z z z z z Cord colors u M M u H H H M H M u M 
+Key: B =Backward, F =Forward, L =Left, R =Right, 
+S = S-knots, Z = Z-knots, U=unified in color, 
+H=half one color-half another, M=mixed colors. 
+Figure 5. Summary of 12 groups of Quipu AS199. 
+group's top cord. This cord's knot directions fur­ther confirm that it is not a "regular" member of the group. 
+AS175 
+AS 175 was mentioned earlier as a quipu whose main cord differs from its pendant cords in spin and ply. Based on spacing, the quipu has 45 groups of five pendants each. Because the main cord is bro­ken just before the first pendant, the pendants that remain may have been preceded by others. (From the patterning described below, I infer that the first group had five pendants, although only the last four remain.) The 45 pendant groups are separated by spacing into three distinct parts. Part 1 contains 21 groups formed into seven sets of three groups each; Part 2 is one set of three groups; and Part 3 is, again, seven sets of three groups each. The pattern of pen­dant colors is the same for all the groups of Part 1. For Parts 2 and 3, the same color pattern appears on the first three pendant positions and then varies in the next one or two positions. (The color pattern is shown in Figure 6.) 
+Parts l and 3 are similar in pendant grouping and color patterning, but, in addition, they are sim­ilar in the layout and color of subsidiaries and in the pattern of numerical values within them. In all groups, there is at least one subsidiary on each of the first two pendants and none on the rest of the pendants. With one exception, the first subsidiary on each pendant is the same color as the pendant. A numerical pattern that catches the eye in both of these two parts is that many values are repeated within a set in the same position in consecutive groups or in the same position two groups apart. In Part l this occurs in 20 and 12 instances respec­tively, and in Part 3 it occurs in 27 and 18 instances respectively. All of these instances are in positions 1, 2, 4, and 5 in the groups, but never in position 3. Also, for both parts, all of the values in positions 1, 2, 4, and 5 are in the range from zero tolOO. 
+From the values on the pendants and sub­sidiaries, I conclude that Part 2 is a summary of Part 
+3. Position by position, with some exceptions, val­ues in the first group of Part 2 are related to the sums of values in the corresponding positions in the first groups in each of the seven sets of Part 3. Part 2's second group is similarly related to the second groups in Part 3 and Part 2's Group 3 to the third groups. (I will return to one of the exceptions that can, perhaps, be explained in light of what is learned of the knot directions!) Recalling that the main cord is broken just at the start of Part 1, my conjecture is that Part I was preceded by another part con­taining three groups related to Part 1 in the same way that Part 2 is related to Part 3. I have, of course, no way of verifying this conjecture. 
+The quipu is quite clearly formatted through the use of the structural indicators of color, space, and cord juxtaposition. The numerical values and their relationships also evidence a formally and carefully constructed data array. It is, therefore, particularly interesting to observe how knot directionality adds to this picture. 
+With the exception of only 14 S-knots, all of the knots on the 224 pendants and 112 subsidiaries are Z-knots. None of the exceptional knots are in Part 2, just two are in Part 3, and the rest are in Part 1. With two exceptions (to which I will return), the anomalous knots are all on subsidiary cords, on the long knots in the units position of a two-digit num­ber. In all but one case, the subsidiary on which the 
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:51:08, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/30042488 
+
+Figure 6. QuipuAS175 -Color pattern in pendant groups. (Cl, C2, C3, C4, and CS stand for the five different colors used.) 
+knot appears is the sole subsidiary on a second 
+position pendant. The orderly nature of the distri­
+bution of the S-knots within the logical structure 
+of the quipu can be seen in Figure 7. (Because there 
+are none in Part 2 and just two in Part 3, only Part 
+1 is shown.) Thus, I do not share Urton's (1994:287) 
+view that these exceptional knots are "seemingly 
+randomly distributed." 
+Returning to the two instances (one in Part 1 and 
+one in Part 3) in which the S-knots are not on the 
+knot in the units position of a subsidiary, they are, 
+instead, located on the units position of a pendant. 
+In both instances, the pendant has a subsidiary but 
+the values on the subsidiaries are 0 and 10; that is, 
+for these there are no knots in the units position! I 
+further note that the subsidiary with value 10 has 
+a tens position knot, but its direction is left 
+unchanged. Thus, I conjecture that the flagging of 
+the units position is calling attention to the entire 
+pendant and subsidiary and not simply to the sin­
+gle digit that contains the anomalous knot. 
+When discussing the relationship of Part 2 to 
+
+Part 3, I noted that with two exceptions the values _ 
+in Part 2 are related to the sums of values in corre­
+. sponding positions in Part 3. One of those excep­
+tions is that the second position pendants in the 
+seven groups in Part 3 sum to 57 and their sub­
+sidiaries to 77, while the pendant one expects to 
+carry the sum has value 66 with a subsidiary value 
+of 68. Among those second position pendants is one 
+whose subsidiary has an anomalous knot. The value 
+on the subsidiary is nine. Significantly, special han­
+dling of a nine is exactly what would "correct" the 
+
+sum. That is, if the nine on the subsidiary were 
+added in with the pendant values rather than with 
+the subsidiary values, the sum would be the value 
+
+
+Figure 7. QuipuAS175 -Part I. (Seven sets of three groups of five pendants each.) In each group, the first and second pendants have at least one subsidiary while the third, fourth and fifth pendants have none. x indicates an S-knot in the units position of the subsidiary; * indicates that the S-knot is in the units position of the pendant. 
+that is present, namely 66 with subsidiary 68. One such instance, of course, can do no more than sug­gest a possibility. Since Part 1 has most of the anom­alous knots, it is unfortunate that there is no summary group present for it, as I suspect there originally was. In any case, examination of the anomalous knots on this quipu strongly supports our overriding theme, namely, that knot direction­ality must be viewed within, and as a part of, the overall logical structure of the quipu. 
+Summary Observations and Conclusions 
+
+From the previous discussion, it should now be apparent that identification of the logical format of a quipu is basic to its reading. Only when the data 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:51:08, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/30042488 
+on a quipu are examined in context of the quipu's 
+format can anything meaningful emerge. 
+For all of the quipus reviewed here, with just 
+three exceptions, spin and ply are uniform for all 
+cords. (Most prevalent are quipus with cords that 
+are uniformly Z-spun and S-plied, but some few 
+are uniformly S-spun and Z-plied.) The three 
+exceptions are simply that the main cord differs in 
+spin and ply from the rest of the cords on the quipu. 
+On the other hand, although knot direction is uni­
+form throughout a quipu for the majority of qui­
+pus, about 18 percent show internal variation. For 
+those with uniform knot direction, all of the single 
+knots have the same direction, all long knots share 
+a direction, and all figure-eight knots have a com­
+mon direction. Moreover, most often, single and 
+long knots have the same direction. For uniform 
+quipus, by far the majority of those considered here, 
+it may be that a quipu's characteristic spin, ply, and 
+direction of the knots is a matter of style, depend­
+ing on time, place, circumstance, or person. 
+My primary attention, however, has been on the quipus with internally mixed knot directions. On them, the role of knot directionality in the quipu code can be more clearly seen. Each of the quipus with mixed knot directions, except, perhaps, for AS 113, have knot directions that are characteristic of the quipu, but each also has carefully placed exceptions. For AS 104 and AS 199, the exceptional knots set off the data on pendant groups that are also set off by other elements of the logical struc­ture, such as space, color, cord juxtaposition, and numerical relationships. For these, it is all the knots on all the cords in the exceptional groups that are modified. For the others, the data on individual cords are specially marked. In several of the cases (AS163, AS136, AS175, and also see AS162 and 
+
+AS 1662), just one knot cluster or knot type is mod­ified, often in the units position. There also seems to be some indication that it is the values on sub­sidiaries or the pendant/subsidiary relationship that is being highlighted or modified by the exceptional knots (AS136, AS192, ASl 75). 
+The identification of the logical structure is just as important for quipus that include non­quantitative data as it is for quipus that are solely quantitative. Quipus are not simply a collection of knotted cords with each cord resulting from its maker's series of choices. To hold that view is to see qui pus as much simpler than they actually are; 
+
+it ignores the underlying general system that unites 
+quipus and the particular logic of each quipu that 
+frames the choices and integrates them with each 
+other. It is significant to note that some of the qui­
+pus identified as carrying non-quantitative data are 
+within the collection for which spin, ply, and knot 
+directions have been added. AS 145 is an example 
+of a quipu that we (Ascher and Ascher 
+1997:122-123) discuss in detail in Code of the 
+Quipu as containing both quantitative and non­
+quantitative data. The juxtaposition of these data 
+within the logic of the quipu structure led us to refer 
+to this quipu as rhythmic. Spin, ply, and knot direc­
+tions are all uniform throughout the quipu, and 
+thus, in this case, it is clear that these features do 
+not distinguish magnitudes from other symbolic 
+forms or contribute to distinctions among the sym­
+bolic forms. 
+The incorporation of spin, ply, and knot direc­tion into the reading of quipus again brings into sharp focus the need for close reading of the indi­vidual documents. Hence, it is extremely impor­tant that any information collected on spin, ply, and knot direction be keyed to the detailed data already available or, in cases where other quipus are referred to, all of the quipu details should be included. In addition, it is my hope that the tradi­tion be continued of making publicly available complete details of all quipus discussed, in order to enable readings and analysis of the quipus by other people. 
+
+Acknowledgments. I thank John Topic for his close reading 
+of the manuscript and I also thank my husband, Robert Ascher, for his readings and his constructive suggestions. 
+References Cited 
+
+Ascher, Marcia 
+1983 The Logical-Numerical System of Inca Quipus. 
+Annals of the History of Computing 5:268-278. 
+2002 Reading Khipu: Labels, Structure, and Format. In 
+Narrative Threads: Accounting and Recounting in Andean 
+Khipu, edited by Jeffrey Quilter and Gary Urton, pp. 
+
+87-102. University of Texas Press, Austin. Ascher, Marcia, and Robert Ascher 
+1978 Code of the Quipu: Databook. University of Michi­
+gan Press, Ann Arbor. (Available athttp://instructl .cit.cor­
+nell.edu/research/quipu-ascher/) 
+1988 Code of the Quipu: Databook II. Marcia and Robert 
+Ascher, Ithaca, New York. (Available at http:// 
+instructl .cit.comell .edu/research/quipu-ascher/) 
+1989 Are There Numbers in the Sky? In Time and Calen­
+dars in the Inca Empire, edited by Mariuz S. Ziolkowski 
+and Robert M. Sadowski, pp. 35-48. BAR International 
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:51:08, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/30042488 
+Series 479. British Archaeological Reports, Oxford. 1997 Mathematics of the Incas: Code of the Quipu. Dover Publications, New York. Originally published in 1981 as 
+Code of the Quipu: A Study in Media, Mathematics and Culture. University of Michigan Press, Ann Arbor. Ascher, Robert 
+2002 Inka Writing. In Narrative Threads: Accounting and Recounting in Andean Khipu, edited by Jeffrey Quilter and Gary Urton, pp. 103-115. University of Texas Press, Austin. 
+Conklin, William J. 1982 The Information System of Middle Horizon Quipus. In Ethnoastronomy and Archaeoastronomy in the Ameri­can Tropics, edited by Anthony F. Aveni and Gary Urton, pp. 261-281. Annals of New York Academy of Sciences, 
+" 
+Vol. 385. New York Academy of Sciences, New York. 
+' 
+Mackey, Carol 
+2002 The Continuing Khipu Traditions: Principles and Prac­tices. In Narrative Threads: Accounting and Recounting inAndean Khipu, edited by Jeffrey Quilter and Gary Urton, pp. 320-347. University of Texas Press, Austin. 
+Urton, Gary 
+1994 A New Twist in an Old Yarn: Variation in Knot Direc­tionality in the Inka Khipus. Baessler-Archiv, Neue Falge, Band 42:271-305. 
+1997 A Catalogue of Spinning, Plying and Knot Directions on Inka Khipus. Paper presented at the Khipu Round Table. Dumbarton Oaks, Washington, D.C. 
+Zuidema, R. Tom 1977 The Inca Calendar. In Native American Astronomy, edited by Anthony. F. Aveni, pp. 219-259. University of Texas Press, Austin. 
+Notes 
+I. Knotted, colored cord arrays both preceded (Conklin 1982) and followed (Mackey 2002) the standardized system employed in the Inka state. Here, the focus is on the Inka system. 
+
+
+2. 
+Of the 11 quipus with mixed knot directions, two are excluded from this study. One of them, AS162, has mixed directions for the figure-eight knots. However, there are just two figure-eight knots on the quipu, one an S-knot and the other a Z-knot. Hence, there is no way to know which is the anomalous knot. For another quipu, AS 166, the figure-eight knots also have mixed directions. However, the directions of three of the 21 figure-eight knots on the quipu were not recorded, making the data incomplete. 
+
+
+3. 
+In our Databooks (Ascher and Ascher 1978, 1988), these colors are more precisely described using the Inter­Society Color Council-National Bureau of Standards method of designating colors. The method involves the use of 267 color-name blocks, each of which has a specific number as well as a descriptive name. In the notation we developed and use for recording quipu cord colors, the colors described here in words are FR:W and MB:W. FR is ISCC-NBS number 40 (strong reddish Brown), MB is number 58 (moderate Brown), and the combination with white (:W) results in a mottled effect. For a full discussion of our color recording system, see pages 18-24 in either of our Databooks (Ascher and Ascher 1978, 1988). 
+
+
+Submitted October 23, 2003; Accepted April 29, 2004; Revised July 31, 2004. 
+
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:51:08, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/30042488 
+

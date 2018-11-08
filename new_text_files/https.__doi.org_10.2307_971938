@@ -1,0 +1,135 @@
+PATIERN AND MEANING IN PREHISTORIC PERUVIAN 
+ARCHITECTURE: THE ARCHITECTURE OF SOCIAL CONTROL 
+IN THE CHIMU STATE 
+
+Jerry D. Moore 
+Our architecture reflects us, as truly as a mirror. 
+Louis Sullivan 
+Archaeologists have studied buildings for decades, but a very narrow range of analytical approaches has been applied to prehistoric architecture. This paper presents a basic theory of architectural meaning, which has as its principal focus the role of access patterns within buildings as a medium of social control. On the north coast of Peru, Andeanists have held an implicit notion about the relation between access patterns and social control, but have lacked the analytical tools to explore this question further. A set of basic tools borrowed from graph theory and locational geography is presented, and discussed, and then applied to a specific set of Prehispanic construc­tions-the monumental compounds of Chan Chan, the capital of the Chimu state (A.D. 900-1470). The methods illuminate differences and similarities in the organization of access within the compounds, and they are used to test a hypothesis about the role of.a specific architectural element-the U-shaped room-in controlling access within royal compounds at Chan Chan. The results have implications for understanding the nature of social control in the Chimu state and suggest the potential that new analytical methods may have for the study of prehistoric constructions. 
+Aunque hace afws las arqueologos han estudiado la arquitectura prehistorica, sin embargo hay escasez de metodos de aniilisis de patrones arquitectonicos. Usualmente las arqueologos piensan en las edificios prehispiinicos en una de tres maneras: coma artefactos complicados que representan tradiciones culturales; coma las escenarios pasivos de actividades prehistoricas, actividades identificadas con otros restos culturales; o coma proyectos publicos que representan una inversion laboral y que implican una escala sociopolftica. Esas tiicticas analiticas son utiles y han resultado en perspectivas profundas sabre la arquitectura prehistorica. Pero la arquitectura tambien refleja significado y una dimension biisica es el acceso: 1,Quien puede entrar y a donde puede pasar? Los arqueologos reconocen que el acceso es una dimension importante, especialmente las que trabajan en el Peru. 
+Los arqueologos estiin de acuerdo que el acceso espacial es una forma de control social y que las patrones de acceso pueden indicar la existencia de grupos distintos en las sociedades prehispiinicas: las de adentro y las de afuera. Este tema es muy importante en el estudio de! desarollo prehispiinico en la costa de! Peru, especialmente en el aniilisis de edificios publicos. Pero, par la fa/ta de metodos analiticos, las arqueo/ogos solamente pueden distin$Uir entre dos extremos de acceso, "abierto" y "cerrado," aunque estiin considerando edificios de varios tamafios y patrones arquitectonicos. 
+Sin embargo, existen metodos para analizar patrones de acceso, metodos utilizados para el aniilisis de las sistemas de redes. El estudio que se presenta a continuacion aplica esos metodos al sitio de Chan Chan, sede de! estado Chimu (900-1470 D.C.), ubicado en el valle Moche. En Chan Chan, las muros grandes de las ciudadelas reales, sus corredores tortuosos y sus entradas indirectas nos sugieren una preoccupacion par el acceso espacial en la construccion de ciudadelas. Par eso, el tema de! acceso ha sido muy importante en las estudios arqueologicos de la capital de Chimor. Una clase de arquitectura-la audiencia-ha sido interpretada coma un nodo de control en el acceso a las depositos en las ciudadelas de Chan Chan. Pero el aniilisis indica que las audiencias no estiin ubicadas en puntos claves en las patrones arquitectonicos yen realidad no contra/an el acceso al almacenamiento. Los result ados indican que se necesita formular otras hipotesis sabre las audiencias y su papel politico en el estado Chimu, y tambien demuestran el valor de metodos alternativos para el estudio de la arquitectura prehispiinica. 
+Archaeology was conceived during the contemplation of ruins, yet it is startling to realize what a narrow range of analytical tools is used to study prehistoric architecture. As Gilman (1987:538) 
+Jerry D. Moore, Department of Anthropology, California State University-Dominguez Hills, 1000 East Victoria St., Carson, CA 90747 
+Latin American Antiquity, 3(2), 1992, pp. 95-113. 
+Copyright © 1992 by the Society for American Archaeology 
+
+95 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 18:43:29, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/971938 
+notes, "Architecture is one of the most common archaeological remains, yet archaeologists have probably done less to interpret and explain architectural variation than for any other data set." A casual review of the Andean and mesoamerican literature suggests that archaeologists usually analyze architecture in one of three ways. One approach is to view buildings as representatives of stylistic traditions, as constellations of design elements that can be identified and associated with the spread of particular societies (e.g., Czwarno 1988, 1989; Isbell and Schreiber 1978; McEwan 1990) or contrasted with other architectural traditions (Aldenderfer 1990:4 79-480). Another approach is to determine the function of particular buildings and places based on the repertoire of artifacts that are present. In such approaches, architecture may be seen simply as a backdrop to human activities that are reflected by other patterned artifactual remains (e.g., Moore 1985). Finally, archaeologists may analyze architecture by measuring the amount of human labor that constructions represent (for a recent review see Abrams [ 1989]). The scope of monumental buildings is seen as a direct index of public labor that provides evidence of the development of authority and power (e.g., Feldman 1985, 1987; Pozorski 1980), while the size of domestic structures may be interpreted as reflecting family wealth, status, and power (for mesoamerican examples see Arnold and Ford [ 1980]; cf. Folan et al. [1982]; Haviland [1982]). While other approaches to architecture certainly exist (such as Blanton 1989; Brewster-Wray 1983; Chiswell 1988, 1989; Fritz 1978; Kent 1990), archaeologists commonly approach architecture in these three ways. None of the approaches is wrong, and each provides significant insights into prehistoric behaviors, but they do not exhaust the potential insights that archaeologists can derive from systematic studies of prehistoric architecture. 
+While archaeologists might accept the basic truth of architect Louis Sullivan's dictum cited above, it is hard to translate that statement into a research program because we immediately encounter some basic problems. How can we identify formal patterns in prehistoric buildings? How can we determine with any degree of certainty what those patterns mean? Finally, how can pattern and meaning be described in ways that are replicable and verifiable? 
+What follows is an attempt to whittle away at these difficulties by exploring them in microcosm­a consideration of the use of architecture as a means of social control in public constructions built by the Prehispanic Chimu state (A.D. 900-14 70) of the north coast of Peru (Figure 1 ). First I describe the theoretical link between access and social control, and then I discuss how archaeologists have applied that rationale to prehistoric Peruvian buildings. I then outline a specific hypothesis, suggested by other Andeanists, which posits ( 1) that one class of distinctive Chimu architecture-the U-shaped room-was an essential element in controlling access within the Chimu capital of Chan Chan, and 
+(2) that the U-shaped room was the symbolic manifestation of administrative order throughout the Chimu state. Using a variety of methods, I test this hypothesis with architectural data from Chan Chan. Finally, the results of this analysis are considered, and new directions for research are outlined. 
+THE ARCHITECTURE OF SOCIAL CONTROL: 
+THEORY AND APPLICATIONS 
+
+Buildings reflect meaning, and the meanings embedded in architecture may range from a society's complex cosmological patterns to straightforward instructions like "Exit." Umberto Eco (1980:25) notes that the symbols embodied in buildings may contain either primary-sign functions or sec­ondary-sign functions. Primary-sign functions communicate basic utilitarian aspects of buildings or architectural elements, while secondary-sign functions connote more complex sets of meanings (Rybczynski 1989: 162). 
+Some of the most basic meanings conveyed by architecture involve how to enter and move through a building. While our attention may be captured by fine facades or architectural adornment, there may be hidden information in more prosaic patterns. Witold Rybczynski (1989: 161) writes: 
+The symbolic meaning of architecture can be profound, as it is in the case with places of worship and important public buildings. But the language of buildings can also convey more mundane messages: where to go, what is important, how the building is to be used. 
+Buildings often are designed to indicate who may enter and where they may go. While every walled structure differentiates 
+inside from outside, doorways, corridors, gates, and other barriers 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 18:43:29, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/971938 
+
+PERU 
+• Pampa Grande 
+Galindo 
+• 
+Chan Chan 
+Pampa de las Llamas-Moxeke 
+Pacific Ocean 
+N 
+1 
+Figure 1. North coast of Peru showing locations of sites mentioned in text. 
+distinguish between insiders and outsiders. In this sense, architecture can be used as a means of social control. 
+One of the most explicit examples of the relation between architectural plan and social control is the Panopticon, a model prison designed by Jeremy Bentham, the British Utilitarian philosopher. Bentham was primarily concerned with the nature of government and the justice of punishment, and; for that reason, was a pioneer in prison reform. The hidden labyrinths of eighteenth-century prisons led to unobserved abuses, and Bentham's solution was the Panopticon-a circular, glass­roofed structure, with cells along the outer ring all facing onto a central rotunda where a single guard could keep all the prisoners under constant surveillance (Johnston 1973: 19-21). Bentham's Pan­opticon was an architectural plan that was designed explicitly as a means of social control "to induce in the inmate a state of conscious and permanent visibility that assures the automatic functioning of power" (Foucault 1977:201 ). The Panopticon is an extreme example of the relation between architectural plan and social control, but it illustrates the notion that the internal organization of built space and, specifically, patterns of access can tell us something about the nature of social control (Fraser 1968:8). 
+Archaeologists working in coastal Peru (Figure 1) have discussed the interconnectedness of distinct spaces and the cultural significance of access in both monumental and residential architecture. For example, in writing of the Cotton Preceramic site of Aspero, Feldman (1985:85) described access to the moundtop structure of Huaca de los Idolos as a "pattern of restricted access" that "can be interpreted as further evidence of differential access to, and control of, ceremonial/religious activity by a small group of people" (see also Feldman 1987). 
+In their recent excavations at the Initial period/Early Horizon site ofMoxeke-Pampa de las Llamas, Pozorski and Pozorski ( 1986, 1988) identified clear evidence that access was limited to the room 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 18:43:29, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/971938 
+group on top of Huaca A. In addition to raised thresholds, gates, and bar closures, the overall architectural plan appears designed to restrict and monitor access to a series of possible storerooms (Pozorski and Pozorski 1986:387-390). 
+Fung (1988) noted a similar pattern at the large U-shaped ceremonial centers of the central coast (not to be confused with the much smaller U-shaped rooms in Chimu architecture): 
+Access to the upper levels is through a single entrance from this court, via a stairway built along the main site axis. Use of the stairway was restricted: at Garagay, for example, there is no trace of wear on its fine coating of clay .... In all, the marked symmetry of such complexes reveals a considered handling of space, aimed at controlling access to the sacred enclosures, through single entrances leading to areas which are increasingly elevated, restricted, and reserved [Fung 1988:91]. 
+Occasionally, the absence of internally divided space is thought to reflect the lack of major social divisions between insiders and outsiders. For example, Fung (1988:72-73) described the relatively open plan of El Paraiso in the Chillon Valley: 
+Absence of distinctions in the allocation of space and in the architectural form of the principal buildings ... seems to reflect a social order free from conditions likely to enhance hierarchical differences, or the power struggle these would engender. 
+In the Jequetepeque Valley, the use of space to restrict access is documented in both residential and public architecture during the Moche V occupation at the site of Pampa Grande (ca. A.D. 600­700). Shimada ( 197 8) argued that patterns of corridors physically articulated workers and workshops. Anders ( 1981) described the storage facilities at Pampa Grande, characterizing access to these rooms as restricted. The main mound of Huaca Grande, located in the central sector of the site, is topped by a room complex interpreted as an elite residence (Haas 1985). Access to the upper surfaces of the massive platform mound was via a ramp/corridor that passed three small interior walls defined as "checkpoints" (Haas 1985:397). Once the top of the main huaca was reached, access within the room complex was "complicated and almost always indirect" (Haas 1985:404) with most doorways consisting of baffled entrances. At a more general level, Shimada ( 1981 :411) outlined the significance of access patterns in defining religious architecture and as "an effective device for symbolic com­munication." 
+One of the most explicit analyses of architecture and access is Bawden's (1982) study of the site of Galindo in the Moche Valley. Bawden has identified distinct sectors in the site, including nonelite barrios that are separated from the rest of the settlement by walls. Bawden (1982: 179) writes: 
+The extensive residential barrio occupied by the lowest social stratum of the population is not only physically removed from other residential and corporate portions of the settlement, but confined to these peripheral locations by massive artificial partitions. The high wall that bounds [this barrio] has few formal openings. The access ways are narrow, enabling regulation of movement from the hillside residential area to the centers of economic activity and corporate administration on the plain below. All evidence points to this wall as forming a device for social control whereby a large segment of the population was barred from free access to the sources of community wealth and status. 
+Three points emerge from this brief review. First, Andeanists consider that patterns of access are an important indicator of how space was used and that those patterns provide insights into the cultural dimensions structuring the use of space. Access patterns are seen as evidence of distinct social divisions, social groupings with differential access to storerooms, workshops, wells, or sacred places. Architectural plans thus reflect patterns of social control. 
+Second, although controlling access is, by definition, a means of social control, there may be different reasons for it; the goal may be to protect storehouses, symbolically guard sacred space, or reinforce the divisions between elites and commoners. 
+Finally, all of the authors cited above view access as binary-it is either "restricted" or "open." Yet even a casual examination of plans (Figure 2) for the corporate architecture at Aspero (Feldman 1985, 1987), the elite residence on Huaca Grande (Haas 1985), and the storage complexes on Huaca A at Moxeke (Pozorski and Pozorski 1986, 1988) suggests significant distinctions between these constructions and their access patterns, although access is characterized as "restricted" in all of these structures. The problem is this: If access patterns are so important yet so variable, how can 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 18:43:29, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/971938 
+
+AS PERO 
+--=i---­
+'
+' 
+I
+' 
+I 
+-
+
+.. --,-: ---­
+=1] 
+
+
+PAMPA GRANDE 
+
+PAMPA DE LAS LLAMAS 
+
+Figure 2. Schematic plans for Huaca de los Idolos, Aspero; Huaca Grande, Pampa Grande; and Huaca A, Pampa de las Llamas-Moxeke. 
+those patterns be analyzed and compared? Simply, it is impossible to distinguish varying degrees of ocial control without devising more subtle ways to investigate Prehispanic architecture. 
+SOCIAL CONTROL IN THE CHIMU ST ATE: 
+THE PROBLEM OF THE U-SHAPED ROOM 
+
+
+This methodological issue becomes paramount in studies of the Chimu capital of Chan Chan (Klymyshyn 1982, 1987; Moseley 1975; Moseley and Day 1982), where considerations of access become a major analytical theme. At its heydey, the Chimu state (A.D. 900-1470) expanded over a 1,000-km section of the Pacific coast (Mackey 1987; Rowe 1948), a territory governed from Chan Chan. Chan Chan was a large Prehispanic city with an urban core covering some six square kilo­meters, inhabited by an estimated 20,000-40,000 people (Topic and Moseley 1983: 157) and dom­inated by l 0 large enclosures thought to be associated with the kings of Chimor (Figure 3). These royal compounds, or ciudadelas (Day 1973, 1982), are separated from the rest of Chan Chan by battered adobe walls up to 9 m high, and contain plazas, royal burial platforms (Conrad 197 4, 1982), rooms thought to be storerooms, and distinctive three-sided constructions called U-shaped rooms. The complexity of the architectural plans suggests that controlling access was an important aspect of architectural design in the Chan Chan ciudadelas. For example, Day's ( 1982) discussion of the ciudadelas of Chan Chan indicates that restricted entrances, maze-like corridors, and associated U-shaped rooms were designed to prohibit and regulate access to storerooms. Day (1982:65) writes, 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 18:43:29, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/971938 
+
+Laberinto 
+[J
+Chayhuac 
+
+0 500 m 
+\
+N 
+
+Figure 3. Schematic plan of the compounds at Chan Chan (after Conrad 1982:Figure 5.2). 
+"The overwhelming concern with security expressed in the controlled access, high walls and tortuous corridors of ciudadelas indicates a profound social and economic gulf between royalty and the rest of the populace." 
+Within the ciudadelas, administrative control over access has been associated with a distinctive type of building: the U-shaped room. U-shaped rooms are adobe-brick structures consisting of three walls, open at one end, and are either rectangular or square in plan (Andrews 1974:247). U-shaped rooms also have a variety of niches, troughs, or bins associated with them; these differences and distinctions in overall layout have led Kolata (1982) to define some 20 different types ofU-shaped structures (Figure 4), an expansion on the seven types initially defined by Andrews. 
+At least certain U-shaped rooms appear similar to features illustrated in Moche iconography (Figure 5) showing a high-status individual sitting on a raised, bench-like throne (Donnan 1976:67, 69). This apparent analogy has led to the term audiencia for some types of U-shaped rooms and the suggestion that such structures were occupied by administrators. The administrative interpre­tation ofU-shaped rooms is not solely based on form and analogy; it is also based on a perceived association between U-shaped rooms and storerooms, specifically that U-shaped rooms control access to the storerooms. Day presented the argument very clearly: 
+Storerooms in ciudadelas housed many more goods than did storerooms elsewhere in the site. These storage facilities could only be reached by a system of corridors that passed the audiencias. It is the strategic position 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 18:43:29, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/971938 
+..
+
+u LI 
+" 
+
+D"""' 0 ' guoUGH 
+\
+!Ill"" 
+Figure 4. Types of U-shaped rooms (from Kolata 1982:Figure 4.3). Courtesy A. Kolata. 
+of these U-shaped structures rather than anything inherent in their form that indicates audiencias were administrative control points in ciudadelas [Day 1982:64]. 
+The suggested strategic role of CT-shaped rooms in controlling access to storerooms has been echoed by others. For example, Parsons and Hastings (1988: 193) wrote recently, "In particular, the role of distinctive CT-shaped buildings in controlling access to storerooms throughout Chan Chan seems undeniable and highly significant." 
+The hypothetical administrative function of CT-shaped rooms has been extrapolated beyond the waJls of the Chan Chan ciudadelas. For example, Keatinge and Conrad (1983:264) discussed the association of audiencias with other Chimu sites in the Chimu heartland of the Moche Valley and the northern valley of Jequetepeque: 
+The occurrence of audiencias within the main structures of these administrative centers [outside of Chan Chan] is assumed to be symbolic of the regional extension and economic unity of state control and authority centered at the capital [of Chan Chan]. In summary, the association of audiencias with contiguous rooms 
+
+Figure 5. Moche depiction of audiencia-like structure (from Larco Hoyle 1939:Plate 31). 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 18:43:29, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/971938 
+
+
+J_J 
+
+V=3 V=3 
+
+
+E=2 E=3 
+E=V-1 E= 3V -6 
+
+Figure 6. Access plans for two three-room plans. "V" equals "vertices," "E" equals "edges." 
+thought to have been storerooms, as well as their location in state rural administrative centers, has led to the development of a model of Chimu socio-economic organization in which audiencias are seen as the archi­tectural expression of state control over the production, storage, and redistribution of goods [emphasis added]. 
+In short, the characterization ofU-shaped rooms as having a general administrative function and/ or meaning throughout Chimu territory is based largely on their specific role in controlling access to the purported storerooms in the ciudadelas of Chan Chan. Yet, this hypothesized relation has not been analyzed, probably because archaeologists have been unaware of a variety of methods that can be used to understand complex architectural plans. 
+METHODS FOR THE ANALYSIS OF COMPLEX ARCHITECTURE 
+One approach to understanding architectural plans is to reduce a set of interconnected rooms to a standardized drawing in which rooms are represented by points and their connections by linking lines (Figure 6). Not only do these diagrams allow for visual and intuitive comparison of different access patterns, but because these circles and connecting lines form networks, it is possible to apply descriptive terms and measures borrowed from graph theory (Steadman 1983) and locational ge­ography (Haggett et al. 1977:313-324). 
+For example, we can assess the distance of the farthest room from the outside door in terms of "depth" by counting tiers of rooms (i.e., from the outside, how many rooms must we pass through to get to a particular room?). An alternative approach measures the interconnectedness of access within a structure based on the number of rooms (called "vertices" or "V" in network graphs) and the number of connections (referred to as "edges" or "E"). The limits of interconnectedness can be expressed by formulas that describe relations between (a) the number of rooms (V) and (b) the number of connections between rooms (E). At one extreme, if each room opens onto one and only one other room, then there will be one less connection than the number ofrooms, a relation expressed by the equation E = V -1; the result is a chain of rooms and a very restricted access plan (Figure 6). In an ideal network, unconstrained by structural considerations, a completely interconnected network is expressed by the slope of E = 3V -6 (Figure 6). In the real world it is impossible for all rooms to be connected directly, particularly when the access is via doorways in shared walls. In 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 18:43:29, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.2307/971938 
+
+

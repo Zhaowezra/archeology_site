@@ -1,0 +1,45 @@
+<link rel="stylesheet" href="bootstrap.min.css" media="screen">
+
+<nav class="navbar navbar-expand navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">Catalyst</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item navredirect" id="homebtn">
+        <a class="nav-link" href="index.html">Home</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          DfrModels
+        </a>
+        <div class="dropdown-menu dropdown-menu-right bg-light" aria-labelledby="navbarDropdown" id="dfr_models">
+          <a class="dropdown-item" href="dfr-index.html?model=all_dfr">all</a>
+          <a class="dropdown-item" href="dfr-index.html?model=bone_dfr">bone</a>
+          <a class="dropdown-item" href="dfr-index.html?model=cerampotterpotteri_dfr">ceram/potter/potteri</a>
+          <a class="dropdown-item" href="dfr-index.html?model=jade_dfr">jade</a>
+          <a class="dropdown-item" href="dfr-index.html?model=lithic_dfr">lithic</a>
+          <a class="dropdown-item" href="dfr-index.html?model=obsidian_dfr">obsidian</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          LDAvis Models
+        </a>
+        <div class="dropdown-menu dropdown-menu-right bg-light" aria-labelledby="navbarDropdown" id="dfr_models">
+          <a class="dropdown-item" href="lda_html/all_lda.html">all</a>
+          <a class="dropdown-item" href="lda_html/bone_lda.html">bone</a>
+          <a class="dropdown-item" href="lda_html/cerampotterpotteri_lda.html">ceram/potter/potteri</a>
+          <a class="dropdown-item" href="lda_html/jade_lda.html">jade</a>
+          <a class="dropdown-item" href="lda_html/lithic_lda.html">lithic</a>
+          <a class="dropdown-item" href="lda_html/obsidian_lda.html">obsidian</a>
+        </div>
+      </li>
+    <li class="nav-item navredirect" id="searchbtn">
+        <a class="nav-link" href="projector.html?ldamodels=all_dfr,bone_dfr,cerampotterpotteri_dfr,jade_dfr,lithic_dfr,obsidian_dfr" disabled>Projection</a>
+      </li>
+    </ul>
+  </div>
+</nav>

@@ -1,0 +1,735 @@
+BUILDING CHAN CHAN: A PROJECT MANAGEMENT PERSPECTIVE 
+
+
+Richard L. Smailes 
+The labor investment in ancient monumental architecture is an important factor in hypotheses concerning a society's size, organization, and social complexity. Most methods of quantifying labor expenditures are limited to simply designed struc­tures with a minimal number of elements. Due to the lack of practical analytical methods, complex architecture is often 
+f
+described subjectively, (fering little quantitative value, resulting in inferences that could be misleading or wrong. Using Ciudadela Rivero at the site of Chan Chan, Peru, as a case study, this research employed construction industry-standard planning, estimating, and scheduling tools to calculate the labor requirements and construction times under various build­ing scenarios. Additionally, the application of Critical Path Method scheduling provides the means to model and compare numerous building scenarios by simulating the effects of various construction and labor organization strategies in their cultural context. The results for Ciudadela Rivero revealed a labor input of over two million labor hours, which could he accomplished by a modest labor force of as few as 250 workers over a six-year period. These data affect numerous archae­ological hypotheses concerning scale of construction, organization of labor, and complexity of social organization. 
+La estimaci6n de los requerimientos de mano de ohra en la construcci6n de arquitectura monumental antigua es un factor importante en lajormulaci6n de hip6tesis sohre el tamafio y la complejidad organizacional de las sociedades que produjeron die has edificaciones. La mayor(a de los metodos que cuantifican la mano de obra se han limitado a estructuras sencillas con escaso numero de elementos. De tal forma, dehido a la falta de metodos para analizar de forma practica complejas edifica­ciones antiguas, conrecuencia se recurre a estimaciones subjetivas de escaso valor cuantitativo. El presente estudio utiliz6 
+fmetodos estandares de la industria de construcci6n para calcular los requerimientos de mano de ohra y tiempos de construcci6n de distintos escenarios constructivos para la Ciudadela Rivero en Chan-Chan (Peru). Ademas, se aplic6 el Analisis de Ruta Cr(tica para recrear y comparar los efectos de distintos escenarios organizacionales y constructivos en su contexto cultural. Los resultados estiman la necesidad de mas de dos millones de horas-hombre para la construcci6n de Ciudadela Rivero. Esto permite inferir el uso de 250 trahajadores en un per(odo de seis afios. Esta informaci6n afecta muchas hip6tesis arqueol6gi­cas sobre la escala de la construcci6n, la organizaci6n lahoral y la complejidad estructural de la sociedad. 
+T
+his study demonstrates the relevance and allows modeling and comparison of numerous establishes a methodology for the applica­building scenarios by simulating the effects of var­tion of contemporary construction project ious construction and labor organization strategies management systems to the analysis of ancient in their cultural context to establish construction architecture for testing archaeological hypotheses time frames. It also introduces the use of Program concerning scale of construction, organization of Evaluation and Review Technique to quantify labor, and complexity of social organization. The uncertainty in the estimating and scheduling labor investment in ancient monumental architec­process. The results for Ciudadela Rivero reveal a ture is an important factor in hypotheses concern­labor input of over two million labor hours, which ing a society's size, organization, and social could be accomplished by a modest labor force of complexity. Using Ciudadela Rivero at the site of 250 workers over a six-year period. These tools Chan Chan, Peru, this research employs construc­provide archaeologists with a consistent, accurate, tion industry-standard planning and estimating tech­and objective means to calculate the time and labor niques to calculate the construction labor investment in structures and highlight opportunities requirements. Critical Path Method scheduling for collaboration with construction professionals. 
+Richard L. Smailes • M. E. Rinker, Sr., School of Building Construction, University of Florida, Gainesville, FL 3261 1­5703 (rsmailes@ufl.edu) 
+Latin American Antiquity 22(1), 2011, pp. 37-63 
+Copyright ©2011 by the Society for American Archaeology 
+
+37 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+
+Construction Project Management 
+The construction of modem architectural and engi­neering works relies upon a sophisticated array of project planning, management, and simulation sys­tems to generate multiple, dynamic building sce­narios based upon techniques that can be productively employed in the archaeological analy ­sis of ancient monuments. The aim of this article is to demonstrate the broad applicability and estab­lish a methodology of these analytical systems for the testing of archaeological hypotheses concern­ing scale of construction, organization of labor, and complexity of social organization. 
+Quantitative labor analysis of architecture is one method to estimate relative rank and power within or between societies, the premise being that the scale and difficulty of monumental construction are an indicator of the degree of a society 's com­plexity and its control over resources, including labor. Because of the basic nature of the data, an analysis oflabor input directly and indirectly influ­ences a large body of archaeological theory con­cerning sociopolitical organization. 
+Yet even an accurate quantitative estimate of labor input is but one component in an integrated approach to evaluating the use of labor in ancient constructions. Simply converting architecture into its labor equivalence takes a passive view of archi­tecture and yields a static analysis of the effort expended on construction. Knowing how much labor was invested in a project is only a partial use of the data. If the goal of archaeology is to eluci­date the dynamics of a society, then we need accu­rate information concerning how that labor was deployed and how long the construction processes may have taken. The need is for a method to incor­porate the static data from labor estimates into a sys­tem to simulate the dynamics of the construction process. Social and organizational theories can then be compared and evaluated in a dynamic context. 
+This retrospective approach to the construction process, and integration of the design, estimating, and scheduling functions, produces a powerful means of quantitative analysis. The design defines what to build, the estimate represents its labor cost, and the schedule simulates the construction strat­egy and labor distribution and calculates the pro­ject duration. This investigation takes the point of view of the contractor operating within the social structure and technology available during the con­struction of the ciudadelas at Chan Chan. The sub­sequent discussion summarizes the research, which describes the use of contemporary project man­agement tools and techniques in the context of con­structing Ciudadela Rivero (Smailes 2000). 
+Construction Labor Quantification 
+Estimates of labor input are a crucial element in theorizing about the organizational level attained by the builders. Examples of theorists include Ren­frew ( l 973a , l 973b), who routinely correlates labor expenditure with social development , as does Webb (1977) at Poverty point, and Erasmus (1965) at Uxmal. Arnold and Ford ( 1980) quantified the labor cost of structures at Tikal to test theories of settle­ment patterns. Pozorski estimates that the amount of labor expended during the construction of Huaca de los Reyes "serves to point out that great masses of laborers were not needed to complete construc­tion. Hence, organizational efforts need not be as substantial or as rigid as might be supposed" (1980:104). Patterson (1985:66), using data simi­lar to Pozorski's, likewise calculates labor costs at Huaca La Florida. It took an estimated two million person-days working part-time over a span of four centuries to construct the monumental architecture at Cardal (Burger and Salazar-Burger 1991:292), thus rejecting the hypothesis that monumental cen­ters were constructed by complex societies. 
+The methods used for each of these calculations apply to structures that are volumes of earth or small stone structures, involving a minimal num­ber of tasks and productivity rates, and are proba­bly sufficiently accurate for their context. However, quantitative analysis of architecture involving com­plex design and single-episode construction rather than accretion requires a more detailed and disci­plined approach, such as architectural energetics demonstrated by Abrams (I 994). In analyzing the labor input of structures at Copan, Abrams illus­trates the method by subdividing structures into multiple distinct measurable activities and then estimating the labor required for each activity to calculate the total energy input in terms of person­days. This approach is comparable to the standard construction industry estimating process of deter­mining the quantity of material (quantity survey) and applying productivity rates to establish the number of labor hours and then multiplying by the 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+pay rates to establish the labor cost (estimating). In an archaeological context, productivity rates are often the result of direct repetitive experiments or the adjustment of existing data to meet the situa­tion. While productivity rates in a commercial con­text are often treated as highly guarded proprietary information, there is an abundance of data in mod­em construction estimating databases that can pro­vide valuable input into quantitative analyses. However, all of these methods are deterministic in nature and rely on a single value for productivity for a given work operation. This research refines and extends the method of architectural energetics by demonstrating techniques that account for uncertainty in the data that can produce statisti­cally qualified labor estimates based on a range of productivity rates. The process of calculating the labor investment represented in a project requires 
+(I) defining the scope of work and developing a Work Breakdown Structure, (2) performing a quan­tity survey to determine the types and amounts of installed materials, (3) identifying and estimating productivity in the form of unit rates, and (4) cal­culating the project estimate from the installed quantities and unit rates. 
+Construction Scheduling 
+While quantifying labor does provide useful infor­mation, it also "emphasizes the passivity of archi­tecture" (Moore 1996:64). The resultant data are static. All that can be said for certain is that one structure required more labor than another or that the scale and complexity of architecture are a rel­ative indicator of social sophistication. The prob­lem is that the architecture is separated from its behavioral context, so if we intend to study the past in dynamic terms, we need some means to consider the data in dynamic constructs (Bleed 1991 : 19, 
+. 32). In short, quantifying labor expenditures is only 
+· 
+part of the story. As Kaplan stated over 45 years 
+ago, "Unless we can be more precise in our esti­
+mates of how these man-hours were distributed 
+over time, any attempts to derive the size or char­
+acter of political units from the size or number of 
+structures in question is highly dubious" 
+(1 963:401). 
+Fortunately, the construction industry routinely 
+uses methods to simulate multiple building 
+processes that archaeologists can employ to esti­
+mate the time parameters of construction under 
+various labor organization models. To gain insight into the dynamic processes involved in controlling labor, archaeologists, much like the potential own­ers of a building, need to know how much the struc­ture cost and how long it took to build. 
+The techniques of modeling labor investment and organization over time were explored previ­ously by linking architectural energetics with the "Theory of Constraints" concept (Abrams and Bol­land 1999), with the goal being to extract useful data relative to labor resource allocations and dis­tribution. The Theory of Constraints was intro­duced into the field of operations management by Goldratt (1988, 1992) and is primarily concerned with the identification and elimination of resource constraints on a system, such as factory lines or, in this case, a construction project. While the intended goals of the approach are sound, from a construction industry perspective, these concepts are not new and have existed as part of project man­agement in the form of Critical Path Method (CPM) scheduling and resource management for over 50 years (Trietsh 2005). CPM is the planning and scheduling system of choice for analyzing construction processes by firms worldwide and is an integral part of the Project Management Insti­tute's (2008) best practices. The teaching of CPM and resource management is a requirement at the over 60 accredited baccalaureate construction management programs at universities and colleges in the United States (American Council for Con­struction Education 2009). It is the logical choice for archaeological analysis due to its pervasiveness in the industry, the sheer number of practitioners and academics, and the availability of off-the-shelf software. 
+CPM scheduling is a network-based modeling system used to evaluate a group of interrelated activities to simulate the time and resource aspects of a project . Logical relationships between activi­ties determine the times activities can start and fin­ish, their resource requirements, and the overall duration of the project. CPM permits evaluation and manipulation of the project plan in terms oflengths of time and efficient resource utilization by inte­grating activity data from the project estimate with the relationships from the logic diagram. It also facilitates "what-if' scenarios as a means to simu­late and evaluate multiple construction strategies and resource allocation and utilization schemes. 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+This application of CPM presents a versatile tool 
+to dynamically model how resources might have 
+been used within the context of prehistoric con­
+struction. These practical problem-solving meth­
+ods "fit well with the evolutionary interests of many 
+modem archaeologists" (Bleed 1991:19-20). 
+Thus far, estimating and CPM scheduling are deterministic and use a single estimate and dura­tion derived from the most likely unit rates. By pre­suming no uncertainty in productivity, there is no accounting for variability. Nevertheless, uncer­tainty in productivity does exist, since it is impos­sible to make precise correlations when estimating prehistoric construction. By using the Program Evaluation and Review Technique (PERT), unit rates and durations are represented by the opti­mistic, pessimistic, and most likely range of values calculated for each activity, and the effect of this uncertainty on the project's estimate and schedule is quantifiable in terms of probabilities (Hinze 2008: 313). Estimating the overall duration of a pro­ject involves preparing logic diagrams to represent the project work plan, establishing crew sizes and activity durations, calculating a CPM schedule based on the logic, and performing probabilistic risk analysis to account for uncertainty. 
+Methodology 
+The case study for demonstrating these tools and techniques involves the construction of the com­pounds or ciudadelas at Chan Chan, Peru. A sin­gle storeroom building serves to illustrate the application of each step in the means and methods employed in the analysis. Then, the concept and process are applied to Ciudadela Rivero, where the results are analyzed and discussed in the context of archaeological theory. 
+The Architecture of Chan Chan 
+Civilizations on the north coast of Peru have engaged in building monumental constructions for thousands of years. This area of Peru exhibits a unique geographic niche consisting of a narrow strip of one of the most arid deserts in the world, running 350 km along the coast. It is bordered on the west by the Pacific Ocean, host to some of the most bountiful and productive marine resources in the world, and on the east by the Andes Mountains. Due to the lack ofrainfall, the only sources of water along this desert strip are the rivers carrying runoff from the western slopes of the Andes, causing con­trol of land and water to be a critical element in the development of north coast societies. Yet, even in this hostile environment, monumental building occurred early and often since preceramic times. Prehistoric Andean societies exhibited the ability to muster a labor force capable of building sophis­ticated engineering and architectural projects. Hun­dreds of aqueducts, irrigation canals, mounds, pyramids, and compounds represent the tangible remains of these prolific builders. 
+The city of Chan Chan is located in the Moc he Valley and was the capital of the Chimor Empire during the period A.D. 900-1470. With a society based upon divine kingship and nobility, the Chimu dominated the entire north coast until their abrupt end by their defeat by and incorporation into the Inca Empire (Rowe 1948:42-46). Through their period of regional dominance and subsequent influ­ence on the Incas, the Chimu played a vital role in the evolution of social complexity in the Andes. 
+Dominating the urban core of Chan Chan is an area containing 10 monumental adobe enclosures called ciudadelas covering an area of 6 km2 , while metropolitan Chan Chan encompasses 20 km2 (Moseley 1975a:2 I 9-220). Ciudadela Rivero, while the smallest of the compounds, is typical in layout (Figure 1). The site also includes smaller elite adobe compounds and barrios of cane and cobble, domestic and craft-oriented structures that housed the majority of the site's estimated 30,000 inhabitants (Moseley 1975a:223; Topic 1990: 152; Topic and Moseley 1983:157). Additionally, the site includes adobe mounds, walk-in wells, and sunken fields. 
+Typical Storeroom 
+The generic two-bay storeroom, typical of Chimu construction at Chan Chan, is an adobe structure 
+3.5 m wide and 6 m long (Figure 2). The walls are made of sun-dried bricks approximately 19 x 48 x 10 cm, with a 10-cm coating of mud plaster on all exposed surfaces and a 5-cm-thick layer of clay on the floor. The roof structure is made of two species of native bamboo, caiia de guayaquil and caiia brava. Beams of IO-cm-diameter caiia de guayaquil are bound to perpendicular layers of 3­cm-diameter caiia brava and topped with a 5-cm layer of grass and mud. 
+
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+
+
+Figure 1. View of Ciudadela Rivero. 
+Rendering indicating plaster and roofing 
+Top View 
+Side View 
+Figure 2. Typical storeroom at Chan Chan. 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+Storeroom 
+Adobe Shell Roof 
+Procure &Manufacture Transport Fabricate Roof Adobes Adobes Panels 
+Erect Adobe Plaster Adobe Install Roof Walls Walls& Floor Panels 
+Figure 3. Work Breakdown Structure (WBS) for storeroom. 
+
+Labor Quantification 
+Scope of Work. The sum total of all deliverables that make up a project is the scope of work. Typi­cally, the plans and specifications serve to describe the structure explicitly in terms of material types, sizes, amounts, quality, and location in a project. A Work Breakdown Structure (WBS) is a hierar­chical representation of the scope of work. A WB S defines and organizes the project, where each descending level divides and subdivides the work into an increasingly detailed definition of compo­nents culminating in discrete tasks or activities. The level of detail is subjective and is a function of the ability and desire to estimate quantities, costs, and time. 
+A simple WBS representing the storeroom (Fig­ure 3) consists of two major components: the adobe shell and the cafia roof. Subsequently each com­ponent is subdivided into separate and distinct tasks. The construction of the adobe shell requires manufacturing the bricks and transporting them to the site, followed by their installation in the wall. The walls need to be plastered, and the clay floor has to be placed. To build the roof both cafia brava and cafia guayaquil must be gathered, fabricated into panels, and installed on the roof and plastered. These activities are discrete and quantifiable and represent a unique place in time. The sum of these activities represents the total scope of work for the construction of the storeroom. 
+Quantity Survey. The quantity of installed mate­rials is the basis for determining the labor cost of each activity. The quantity survey delineates the measured quantities of material in a manner con­sistent with the activities, in the proper units of measure used for estimating. 
+From the WBS, building an adobe wall involves manufacturing adobes, transporting them to the site, and installing them in the wall. Since the adobes vary in size, the common unit of measure for esti­mating the productivity of these activities is volume. For plastering and clay flooring the unit of measure is square meters, and the roof is a series of four 2.5­x-3-m panels. Table 1 shows the detailed quantity survey of installed materials for the storeroom. 
+
+Productivity Unit Rates. Productivity is the cost per unit of output measured in terms of labor hours and is referred to in unit rates. The estimator's job is to develop and apply unit rates to the quantity survey to calculate the project estimate. 
+One of the challenges of analyzing ancient construction is determining unit rates using the tools and techniques of the period. The develop­ment of productivity rates for ancient construc­tion is often linked to field experiments designed to replicate ancient tasks. Unit cost data are often highly proprietary within the construction indus­try, but fortunately, data from field experiments performed by archaeologists are not and often provide valuable statistics adaptable to the study site. Lacking direct experimental data, the best evidence of techniques is in the architecture itself and in building traditions passed down through generations. Often techniques that endure for 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+Table I. Quantity Survey of Storeroom. 
+Dimensions Conversions TotalUnit or 
+Item Description No. Total Estimated
+Length Width Height Measure Rate 
+Quantity 
+Storeroom 
+Adobe Walls· Standard adobes 24cm x 10cm x 19 cm 
+' 
+Front Wall 1 6.00 1.00 2.00 12.00 m 
+Less openings (2) 1.00 1.00 1.00 (2.00) 
+Rear Wall 1 R.00 1.00 2.00 12.00 m' 
+Side Walls 3 1.50 1.00 2.00 9.00 m 
+
+' 
+Gables 3 each/ 2 
+' 
+for triangular section m
+
+1.5 3.50 1.00 1.75 9.19 
+' 
+Total Volume or Adobe Walls 40.19 m 
+' Total Volume of Adobes 40.2 m 
+3
+Total Number of Adobes 172 adobes/m6,912 Ea. 
+Plaster Walls -10 cm 
+Exterior 
+Front Wall 1 6.00 2.00 12.00 m' 
+Less openings -2 1.00 1.00 ·2.00 m' 
+Rear Wall 1 6.00 2.00 12.00 m' 
+Side Walls 3 1.50 2.00 9.00 m' 
+
+Gables 3 each / 2 
+1.5 3.50 1.75 9.19 m'
+for triangular section 
+Interior 
+
+Room 2 4.50 2.00 18.00 m' 
+Openings 2 3.00 1.00 6.00 m 
+' 
+
+Total Area orPlasterlng 64.19 m' 
+' Total Area of Plastering 64.2 m Clay Flooring • 5 cm 
+
+Rooms 2 1.50 1.50 4.50 m' 
+Total Area of Clay Flooring 4.50 m' 
+" 
+
+Total Area of Clay Flooring m 
+Roofing -Cana 
+
+Total Roofed Area 4 3.00 2.50 4.00 Each 
+Total Number of Panels 
+Total Area of Panels 
+Cana de guayaquil • 10cm dia. 2 
+
+
+Cana brava • 3cm dia. 60 
+generations are still in use, making contemporary approximation of the work required to complete a practitioners particularly helpful in this regard given task. by providing a firsthand perspective unavailable Finally, lacking any other source material, the from other sources. estimator mentally constructs the activity step by 
+Similar solutions to similar problems are preva­step and based upon his or her best knowledge and lent worldwide, and examinations of data across experience, predicts the productivity rate to produce geographic boundaries should not be overlooked. a conceptual estimate. The degree of concern over Construction is not a wholly automated process, weak data is relative to the activity's overall con­and many of the work operations used in the past tribution to the whole. A best guess of an item of are still in use at present. Commercially published little importance has a negligible effect on the total construction cost guides, compiled from years of project, while identifying critical areas of weak or sampling, contain productivity rates for a variety missing data serves to guide future research in pro­of manual operations. These rates provide a good ductive directions. 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+An appropriate and effective approach to esti­mating prehistoric construction is identifying the range of probable unit rates for each activity. Mul­tiple sources of data are useful for bracketing the probable productivity rate in terms of high and low expectations. In this method, the most likely value represents work progressing as expected with nor­mal progress under normal conditions. This is the rate most probable to occur and is treated as deter­ministic in most analyses. However, conditions are not always ideal, and estimates are only that. To the contractor, this uncertainty represents an iden­tifiable risk in terms of the probability of complet­ing a project on time and within budget. Statistical modeling techniques such as PERT use a range of unit rates and perform thousands of iterations with the potential variables to calculate the probable ultimate cost based on the frequency of the out­comes. The optimistic estimate sets one end of the productivity range and assumes that the work pro­ceeds with better-than-expected results, while the pessimistic estimate sets the other end with poor productivity due to unforeseen or unusual diffi­culties . Unless statistical analyses are contem­plated, only the most likely rates need to be derived. 
+The following paragraphs detail the develop­ment of these ranges of unit rates for significant items identified in the quantity survey. Each begins with a discussion of the construction techniques involved, followed by the data used to establish the unit rates. Additionally, each rate includes a deter­mination of optimum crew sizes for each task. 
+Traditional methods of making sun-dried adobes are essentially unchanged over countless genera­tions in many parts of the world. The adobes at Chan Chan are not kiln hardened, nor are they sta­bilized with binders such as straw, making them inherently unstable and only marginally stronger than the original soil. 
+The adobe-making process involves combining a sandy clay soil and water in a shallow mud pit and then mixing with a shovel or hoe or by foot treading. Wooden forms capable of making single or multiple bricks are set on level ground, and the interior of the form is moistened with water. The adobe maker (adobero) drops or throws the mix­ture into the form(s), kneads it to fill the comers and remove air bubbles, and then levels the top with a stick or board. The forms are removed immedi­ately, rinsed, and prepared for the next charge of mud. In low-humidity climates such as Chan Chan the initial drying time is two to three days (McHenry 1984:63) . After this initial period the bricks are tipped on edge and trimmed and con­tinue to cure an additional few days. While the full curing process occurs in 10 to 20 days, adobes may be transported and installed after five to seven days (Quentin Wilson, personal communication 2000). 
+Productivity rates for making adobes vary by source in the composition of crews and tools used. Table 2 represents a format that brings each esti­mate to a common unit of measure, allowing for adjustments as needed. The raw data of the first two sources state that two workers with a wheelbarrow, a hose, and a four-unit form make between 350 and 500 bricks (35 x 10 x 25 cm) per eight-hour day. An informant working in the Moche Valley, when questioned during this field research, indicated that he mixes and makes 300 bricks in three days, with a single brick form, carrying his own water about 50 m. The estimated unit rates reflect extending and converting the adobes made per day into hours per cubic meter of bricks produced. The rates range from 3 .5 to 8 hours per cubic meter. 
+However, the makers of adobes at Chan Chan did not have a wheelbarrow or as convenient a source of water as a hose, as is the case in the first two estimates. Conversely, they must certainly have used at least a four-unit form, unlike the informant, due to the mass production requirements of the pro­ject. In order to more closely replicate the tech­niques used by the Chimu, each of the estimates needs refinement. One person added to the first two crews allows for the manual transportation of mate­rial, and the informant's production may be raised by 20 percent to reflect the increased productivity ofusing four-unit forms. These adjustments are sub­jective and depend on construction experience and confidence in the initial data. The resulting recap indicates the range of productivity expected to man­ufacture adobes in terms of optimistic, most likely, and pessimistic m1it rates. The informant's produc­tivity is accepted as the most likely rate, since it is more conservative than the average and most closely represents the actual methods used by the Chimu. The data indicate that each worker produces approx­imately 29 average-sized adobes per hour, with an optimum crew size of three to five workers. In terms of productivity, the most likely unit rate for each worker is 7 .0 hours per cubic meter. 
+
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+
+Raw Data 
+4.98 
+3
+hrs/m
+3
+hrs/m
+3
+
+2 8 16 500 4.59 m
+Wilson 
+2 8 16 350 3.21 
+m ' 
+' 3
+
+1 24 24 300 3.00 m 8.00 hrs/m
+Informant 
+Adjusted Rates 
+31 
+3.21 
+' 1
+5.2
+
+8 24 500 
+hrstm
+Wilson 
+m 
+7.0 
+3 1 
+
+8 24 350 
+33 
+hrs/mhrs/mm 
+
+Raw data based upon 2 persons with a wheelbarrow, hose, and a 4-unit form 
+1 24 345 
+33 
+Informant 
+m 
+1 
+
+Add 1 extra person for manual transport of mud and water. 
+2 Raw data based upon 1 person with no wheelbarrow and a 1-unit fonn Increase output by 20% to compensate for 1 unit form 
+Manufacture Adobes 
+Number of 
+Crew Size 
+Productivity Range 
+
+Adoberos average sized 
+adobes made 
+hour
+% 
+
+Ootlmlstlc 5.2 hours per cubic meter worker -25% 38 
+
+Most 7.0 hours cubic meter worker 0% 29 
+Pessimistic 7.5 hours cubic meter worker 7% 27 
+
+(Quentin Wilson 2000: pers. com.; McHenry 1984: 67) 
+The manual transportation of material is a func­tion of weight and distance. Mud bricks, the size of average adobes at Rivero, weigh approximately 
+7 .5 kg each (McHenry 1984:65; Norton 1997:38), with a load of four adobes weighing 30 kg. For this example (and subsequently Ciudadela Rivero), assume that the raw material for adobe making is readily available on the site and within 250 m of the storeroom. Table 3 delineates the productivity rates derived from experimental sources for a 250­m hauling distance. 
+Erasmus's (1965) research at Uxmal involved performing various manual transportation experi­ments using workers in Sonora, Mexico, to simu­late Maya labor productivity. Rock-carrying experiments yielded productivity rates for manu­ally transporting weights over distances, with the raw data using a five-hour workday due to the stren­uousness of the task and oppressive tropical cli­mate . According to these data, a worker can transport a total of 950 kg over a 250-m route in a five-hour day, carrying a weight of 28 kg per trip. 
+While the work is no less strenuous at Chan Chan, the climate is more hospitable, and the terrain is less hazardous. Erasmus's rates are refined to allow an increased total for an eight-hour workday, tem­pered for a drop in productivity in the later hours. The revised productivity rate using these data is approximately nine hours per cubic meter for a 250-m trip. 
+A second method for estimating productivity uses a standard formula derived from U.N. exper­iments as presented by Abrams (1994:44) in his study of energetics of Maya structures. The formula shown accounts for weight of the load, speed of the worker loaded and unloaded, and distance carried. The results of the calculation yield unit rates of 6.7 hours per cubic meter for a 250-m trip. 
+Since both sources of data are reasonably con­sistent in terms of productivity, the most likely rate equates to a simple average of the two. Carrying materials is a singular task, so the crew size is sim­ply measured as one person. 
+The construction of adobe walls uses simple, 
+
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+Table 3. Productivity Rates for Transporting Adobes. 
+
+time-tested techniques that emphasize quantity over quality, strength over skill. The curing rate of the adobes and the mortar is the primary limiting fac­tor to the speed of raising a wall. Moisture from uncured adobes and/or mortar must migrate to the surface to evaporate, otherwise a compression fail­ure occurs, and the wall collapses. In the arid cli­mate of the north coast of Peru adobes achieve a full cure in 10 to 20 days, though placement may occur within a week of manufacture, with final cur­ing taking place in the wall, providing the coursing is not too rapid (Wilson, personal communication 2000). Similarly, too many courses placed upon uncured mortar may also cause compression fail­ure and collapse of the wall. A rate of two to three courses per day of the relatively tall adobes at Chan Chan is adequate to allow the moisture in the core to evaporate. 
+To build the walls of the storeroom, string lines mark the perimeter, and the comers are built up first. Workers then fill in the sections between the cor­ners in courses following the string lines. On thick walls, workers simply stand on the previous courses and work backward, placing the bricks and mortar as they go. Workers pass the bricks and mortar up to the mason with minimal or no scaffolding on walls up to 3 m in height. 
+Since adobe construction remains essentially unchanged from the time of the Chimu, contem­porary sources provide a good starting point. One published standard estimates the placement of 555 adobes (35 x 10 x 25 cm) by a five-person crew in eight hours, while Wilson (personal communica­tion 2000) has experienced a rate of 500 bricks with a three-person crew. In order to accommodate varying brick sizes, the numbers of bricks are con­verted into their equivalent volumes. This yields a reasonably accurate measurement of productivity across the range of brick sizes. However, each assumes the use of a wheelbarrow, a convenient water source, and a machine mixer for mortar. Since the Chimu employed only manual methods, the addition of two workers to each crew adjusts the rates to take into account manual transportation and mixing of materials. The resulting data from both sources are relatively consistent and form the 
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+40.2 m
+·4i1":2-;33 
+3
+
+
+40.2 m 
+
+Smailes] BUILDING CHAN CHAN 
+Table 4. Labor Estimate, Crew Sizes, and Durations for Storeroom. 
+
+Total 
+Crew No. Qf 
+
+No. of Duration
+Item Description 
+Crews
+No. 
+(Days)* 
+
+A x B = C D x E F G = C/(F"8) 
+Adobe Shell 
+3 
+280 4 1 4 9
+Manufacture Adobes 
+
+7.0 hrs/mS-A-01 10 
+4 1 4 133
+
+
+
+
+9.9 hrs/m396
+Erect adobe walls 
+S-A-03 
+57
+Plaster adobe walls & floor 
+2 2 
+2
+2 2 4
+68.7 mS-A-04 0.83 hrsim
+
+Subtotal -Labor Estimate for Adobe Shell 
+Roof Fabricate roof panels 4 ... 29.8 
+
+Erect roof panels 4 ... 4.00 
+Subtotal -Labor Estimate for 
+Total Labor Hours for Storeroom 
+
+upper and lower limits of the productivity range. The most likely rate of 10 hours per cubic meter of wall is the average, with an optimum crew of four to six workers. 
+Project Estimate. The first several columns of Table 4 show the result of combining the installed quantities with the most likely unit rates, on a per­activity basis according to the WBS. An analysis of the data reveals that the total estimate for the storeroom is 1,184 labor hours. The construction of the adobe shell is by farthe most expensive com­ponent, with manufacturing, transporting, and installing the adobes representing the majority of the labor. The roof is a relatively minor portion of the project. The distance material is transported to the site has a sizable impact on the overall cost . Transportation costs of adobe and cafia alone rep­resent more than 30 percent of the total project cost. Based upon this information, a contractor would attempt to keep the hauling distance to a min­imum and concentrate management attention on the adobe-related activities. 
+Regarding the overall confidence level of the estimate, there are solid productivity data for adobe manufacturing, transporting, and installing, the pri­mary consumers of labor. Since data were not avail­able to estimate accurately the fabrication and erection of the roof panels, there is the temptation to perform an experiment to establish accurate rates. However, these activities have only a slight impact on the project , and unless the unit rates are potentially under-or overestimated by a vast mar­gin, data gained from a field experiment would do little to improve the overall accuracy of the esti­mate. The same situation exists with hand plaster­
+1,049  
+hrs/ea.hrslea.  119 16  2 2  1 1  2 2  8  
+• o ne day = 8 hours, ro unded up to  
+
+1,184 
+the nearest whole 
+ing for similar reasons. This estimate review is ide­ally suited as a means of determining the impact of weak or missing data as well as determining the direction of future research designs. 
+Construction Planning and Scheduling 
+The project schedule represents the construction work plan showing how the activities relate to one another in the construction sequence, and using the length of time required for each activity, it calcu­lates the total length of the project. 
+
+Logic Diagrams. A logic diagram, or network, is a graphical method used to define how each activity relates to every other activity and is the basis for the project schedule. Each of the activi­ties represents a separate yet interdependent task. Development of the logic diagram proceeds sys­tematically on an activity-by-activity basis to sequence the work. In the Precedence Diagram­ming Method, boxes represent activities, and arrows show the logical relationships. Each activ­ity is analyzed in terms of which activities must be completed before it can begin (predecessors) and which activities must wait until it is complete (suc­cessors). Figure 4 is a simple logic diagram for the storeroom and is a graphical representation of the construction work plan that reflects the results of many decisions and chosen alternatives. This exam­ple shows that once the project starts, the fabrica­tion of the roof panels (including procurement of the raw materials) and manufacturing of the adobes can both begin and occur concurrently. Erection of the adobe walls (successor) cannot start until the adobes have been manufactured and delivered to the site (predecessors). While it is technically pos-
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+Fabricate Erect Roof Roof Panels Panels 
+Manu­ 
+facture  
+Adobes  Transport  
+Adobes  Erect  
+Adobe  
+Walls  Plaster  
+Walls&  
+Floor  
+Figure 4. Logic diagram for storeroom.  
+
+sible to erect the roof panels before the walls and floor are plastered, this work plan allows the adobe workers to complete the shell of the storeroom, including the wall and floor plastering, before the roof installation begins. This allows the adobe workers to complete their portion of the project without having to work around the roofing instal­lation, resulting in a smoother work operation. The judicious and creative use of logic allows the builder to accurately model work plans and com­pare the effects of various alternatives. 
+Activity Durations. The length of time required to complete an activity, the duration, is a function of the estimated labor hours, crew sizes, and the length of the workday. It is determined by divid­ing the total number of workers times the hours in a workday into the total labor hours. The object is to balance the crew assignments within a desired time frame to meet the goals of the project. The labor/crew requirements and the activity durations are shown in the rightmost columns of Table 4. 
+Resource Distribution. Next, the schedule is resource loaded to determine the resource require­ments or labor distribution of the project. Figure 5 shows the results of combining the logic devel­oped in Figure 4 and the duration data in Table 4 as a resource-loaded, time-scaled logic diagram presented in bar chart form. Here each bar repre­sents an activity's duration as well as its relation­ship to the other activities. The manufacture, transport, erection, and plastering of the adobes all proceed sequentially, with the fabrication of the roof panels occurring concurrently. According to the logic, all of these activities must be complete before the final activity, Erect Roof Panels, can begin . The critical path for the storeroom con sists of the activities Manufacture Adobes, Transport Adobes, Erect Adobe Walls, Plaster Adobe Walls and Floors, and Erect Roof Panels. They make up the longest path through the network, have no float, and represent the earliest time the project can fin­ish, which is 35 days.Adelay in any of these activ ­ities results in a delay to the project end date. Awareness and management of the activities on the critical path are vital to the on-time completion of the project. The activity Fabricate Roof Panels is eight days in duration, with 26 days of float. That is, this activity may begin as early as day one of the project or as late as day 27 without delaying the start of the Erect Roof Panels activity. In effect, this eight-day activity can happen anytime in a span of34 days. In this example, the resources are assigned by type of workers. It shows a range of two to six workers needed to build the project according to the early schedule. Four adobe work­ers work from day 1 to day 34 of the project, with the two caiia workers required at the beginning and the end. 
+The schedules developed in this section are the result of basic scheduling and resource allocation techniques. The following section describes advanced procedures of managing resources and 
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+Manufacture Adobes 9 Days4 4 4 4 4 4 4 4 4 Transport Adobes 1 O Days Each activity is assigned the appropria te number of workers based upon the revised project 4 4 4 4 4 4 4 4 4 4 estimate (Table 2-14J. Cr1t1ca1 Act1¥1t1vs Non-crittcal ACUVltll;'IS Erect Adobe Walls4 4 4 4 4 4 Project duration is 35 days. H' t f th dll bo 1s ogram represen mg " a1 y a r requrremen ycra .c c c ·c· c c ·C c c · C· A:::Adobe workers C=Cana workers c c c c c "· ------A A A A A A A A A A A AAA A A A A A A A A A A A A AA A A A A A A A A A A A A A A AA A A A A A A A A A A A A A A A 6 6 6 6 6 6 6 4 4 4 4 4 4 4 4 A AA AA AA A 4 4 A A A AA AA A 4 4 A A A A A A A A A AA A A A AA A A A A 4 4 4 4 4 ·------------·-------.---A A A A A A A A A A A A A A A A AA A A A A A A A A ·cA A A A A A A A A :c 4 4 4 4 4 4 4 4 4 Figure 5. Resource-loaded bar chart. 
+developing complex logic and finally, a statistical method to quantify the uncertainty in the data. 
+Advanced Scheduling Techniques 
+
+Resource-Constrained Scheduling. The schedules generated to this point assume that all the labor resources needed for all activities are available. However, this is not always the case. Often resources are limited, in which case the schedule must be adjusted to work within the existing resource availability. For example, the schedule shown in Figure 5 requires a maximum of six work­ers, four for adobe work and two for cafia. If fewer workers are available, the original schedule is not ; feasible due to the lack of labor resources, and the 
+
+construction time is extended. 
+Complex Logic. The networks up until now use 
+
+the logical relationship "finish to start," where the 
+predecessor activities must finish before the suc­
+cessors can begin. While simplicity is a virtue in 
+scheduling, there are instances when more complex 
+logical relationships assist in modeling the con­
+struction plan more accurately. 
+For example, the current logic indicates that 
+
+transportation of the adobes cannot begin until all 
+adobe manufacturing is complete. However, it was previously determined that at Chan Chan, adobes are ready to transport after an initial curing period of five to seven days. Therefore, transporting adobes can actually begin five to seven days after the start of adobe manufacturing, and similarly, there is no need to wait until all the adobes are on­site before starting construction of the wall. 
+The use of complex logic using lags allows activities to work in parallel, yielding a more aggressive yet practical schedule (Figure 6). If all required resources are available when needed, the plan produces the shortest duration of the project, 25 days.Using lag relationships and complex logic offers considerable flexibility when analyzing the possible construction times of the storeroom under various labor organizational theories. 
+Probabilistic Scheduling. The estimated pro­ject duration is 25 days with an unlimited labor supply or 39 days with a group of four workers. However, CPM scheduling is deterministic and uses a single estimate and duration derived from the most likely unit rates. By presuming that there is no uncertainty in productivity, there is no accounting for variability. Nevertheless, uncer­tainty in productivity does exist, and it is impos­sible to make precise correlations when estimating prehistoric construction. This uncertainty is rep-
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+Table 5. Crew Sizes and Durations-PERT Version. 
+Activity Duration (Days)* TOTAL
+
+Estimated Crew No. of Tota.I No. 
+Item Description Unit Rates Labor MOSTNo. Quantity Size Crews Workers OPTIMISTIC PESSIMISTICHours LIKELY 
+
+= 
+
+A x D x E G = C/(F*8) G = C/(F*8) G = C/(F*S) Adobe Shell 
+5.2 hrs/m3 210 4 7 
+9
+
+S·A-01 Manufacture Adobes 40.2 m' 7.0 hrs/m3 280 4 1 4 
+hrs/m3 300 4 10 hrs/m3 268 4 9 
+S-A-02 Transport Adobes 40.2 m' 7.8 hrs/m3 315 1 4 4 10 
+9.0 hrs/m3 363 4 12 
+8.7 hrs/m3 350 4 11 S·A-03 Erect adobe walls 40.2 m' 9.9 hrs/m3 396 4 1 4 13 
+11.0 hrs/m3 442 4 14 
+0.57 hrs/m2 4 
+2 
+Plaster adobe walls & 
+
+S-A-04 68.7 m' 0.83 hrs/m2 57 2 2 4 2floor 
+0.98 hrstm2 67 4 3 
+Roof 
+4
+hrs/ea.
+. 
+
+3
+23.9
+... 
+hrs/eaFabricate roof panels 
+
+119 2 2 4
+S-R-03 
+4 29.8 
+
+
+
+
+36.5 hrs/ea. 146 
+3.2 
+hrs/ea. 13 2 1 
+
+4.0 
+hrs/ea. 16 
+
+
+4.8 hr19
+s/ea. 
+
+Optimistic 976 
+Most Likely 
+Erect roof panels 1
+S-R-04 
+4 2 2 
+2
+2 
+" one 8 hours, rounded to the nearest whole 
+labor hours 
+Es ti mate Tota Is 1,184 labor hours 
+
+Pessimistic 1,337 
+resented by the optimistic, pessimistic, and most likely range of unit rates calculated for each activ­ity, and the effect of this uncertainty on the pro­ject's estimate and schedule is quantifiable in terms of probabilities. 
+PERT uses statistical sampling programs such as Monte Carlo to simulate numerous project out­comes based upon the full range of productivity rates. Table 5 shows the project estimate expanded to include the full range of unit rates previously developed. These rates then translate to the esti­mated labor hours and durations by activity. For instance, the detenninistic values for manufactur­ing adobes, which were the basis for the CPM schedules, are 280 labor hours over a nine-day duration. However, this activity could, optimisti­cally, take as few as 210 labor hours over a seven­day duration or, pessimistically, as many as 300 labor hours over a 10-day duration. 
+To detennine the probable project cost and dura­tions, the full range of values is factored into the schedule shown in Figure 6 and then simulated using Monte Carlo sampling for 1 ,000 cycles. Each 
+labor hours 
+simulation cycle randomly samples durations across a triangular distribution defined by the opti­mistic, most likely, and pessimistic durations for each activity. Frequency distribution histograms and cumulative probability curves plot the results. 
+Figure 7 shows that there is a 69 percent prob­ability of completing the project in 1,184 labor hours, the deterministic value, but a 95 percent probability that the project will require 1 ,230 labor hours or less. In terms of the overall project length, the simulated project durations range from 24 to 28 days, with a 95 percent probability that the pro­ject will finish in 26 days. 
+Building Ciudadela Rivero 
+General Description of Major Features The ciudadelas of Chan Chan represent the archi­tectural expression of the apex of power (Figure 1). Massive adobe walls rising up to 9 m high and as much as half a kilometer in length surround them. They served as the administrative center of 
+
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+100 
+90 
+80 
+
+ 70
+15 
+ca
+..0 
+0 60
+n:: 
+c
+<J.) 50 
+(l...<J.) 
+40 
+30 
+20 
+10 
+0 
+the kingdom, the royal palaces of the kings and their immediate families, and with the addition of a bur­ial platform, mausoleums upon their deaths (Day 1973:281). Generally, the ciudadelas are divided into a north sector, central sector, and southern sec­tor, called the canch6n, which contains a burial mound. The north and central sectors each contain numerous plazas, storage buildings, and U-shaped structures called audiencias. Using massive walls, restricted access, and changes in elevation, this pur­poseful design isolates the elite from commoners and represents a formal planning tradition that endured for hundreds of years. Ciudadela Rivero was best suited for analysis from a construction per­spective due to its extensive mapping and existing research. 
+The compound making up the original config­uration of Ciudadela Rivero measures approxi­mately 178 m wide x 375 m long, surrounded by massive tapia (rammed earth) walls up to 9 m high tapering from 4 mat the base to 1 mat the top. A massive inner adobe wall runs parallel to the tapia wall on the south and southwest sides of the com­pound, creating a 3-to 4-m-wide corridor.An addi­
+
+
+% 
+20 
+>.
+u
+c
+<J.)
+::i
+rr
+<J.)
+­
+LL 
+c
+<J.)
+u
+Q;(l... 
+tional massive adobe wall runs east-west separat­ing the north and central sectors (Figures 8-9). 
+The interpretation of the architecture at Chan Chan contributes significantly to theories of the social, political, and economic structure of the Chimu. The monumental size of the ciudadelas implies the control of labor, the spatial layout sug­gests differences in rank, and the large proportion of space allocated to storage infers centralized con­trol of a redistributive economy. However, there are no reliable estimates of how much labor was involved in constructing a ciudadela, how long it may have taken to build, and what degree of con­trol and coordination was actually required. These data are directly relevant to theories concerning the sociopolitical organization of the Chimu. 
+Scope of Work 
+The existing layout of Ciudadela Rivero is the result of at least two major construction episodes. The original construction plan was followed by a later remodeling effort involving the demolition of a portion of the north tapia wall, a rework of the north entry corridor, and the addition of the massive 
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+
+Pigure 8. Layout of north and center sector of Ciudadela Rivero. 
+
+Figure 9. Layout of south and center sector of Ciudadela Rivero. 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+adobe outer wall. The abutments of the adobe walls into the tapia walls, the lack of any transition of the shortened north tapia walls into the final structure, and the fact that no other ciudadela had twin perimeter walls strongly suggest that originally, only a single tapia wall surrounded the ciudadela. Only the analysis for the original configuration is addressed here. 
+It is possible and even probable that remodeling occurred in other areas of the compound; however, there are no compelling data that allow any further demarcation between original and remodeled areas. Also, specifically excluded are any instances of art­work, primarily the plaster reliefs on the walls of the courtyards. Although artistic work is often dif­ficult to quantify in terms of labor hours, it is doubt­ful that the time or effort expended is significant in terms of the overall construction estimate, and it is highly unlikely that this work would be on the crit­ical path; therefore it would have no impact on the overall duration of the project. 
+Labor Quantification Quantity Survey. Aided by plan maps (Mackey and Moseley 197 4) and a detailed architectural survey of the compound (Day 1973), field research was conducted at Chan Chan in May 2000 to photo­graph, measure, and analyze the ruins of Ciudadela Rivero from a construction perspective. Data from these sources were used to create a three­dimensional virtual model of Ciudadela Rivero. This architecturally intelligent model associates sizes, material types, and quantities for each detailed component of the compound. While it is possible to perform the quantity survey manually, the model allowed the installed quantities of each component to be extracted directly from the model and input into the quantity survey according to the WBS. Productivity Unit Rates. Proceeding in the same manner as previously shown, unit rates were devel­oped for all of the tasks required to construct the compound. Unit rates previously calculated for adobe wall construction are not sufficient to account for walls over 3 m high and require ad just­ment. As with the construction of tapia walls, a loss of productivity occurs as the height increases, pri­marily due to the additional transportation of the adobes. For heights between 3 and 6 m, the equiv­alent of two additional workers to the crew size reflects this decreased productivity, with four addi­
+tional workers being added for heights between 6 and 9 m. Table 6 lists the full range of tasks, unit rates, and crew sizes. 
+Project Estimate. Based upon the most likely productivity rates, the project estimate for the con­struction of Ciudadela Rivero in its original con­figuration is 2.1 million labor hours (Table 7). Building the interior walls and structures in the north sector, central sector, and canch6n accounts for half of the labor. Constructing the massive outer tapia and inner adobe walls consumes one-third, and the balance is in general excavation. 
+The distribution oflabor hours from a work type perspective indicates that manufacturing, trans­porting, and installing adobes represents two-thirds of all work. The tapia walls and excavation account for just under a third, with the balance in plaster­ing and caiia-related activities. 
+In terms of the uncertainty of the estimate, each unit rate developed consisted of a productivity range represented by optimistic, most likely, and pessimistic values. Using this range of rates, the uncertainty in productivity is quantified by the Monte Carlo simulation procedure described pre­viously. The results (Figure 10) show that there is an 85 percent probability of completing the project in 2,123,784 hours, the deterministic estimate, with a 95 percent probability that the project will finish in 2,136,000 hours or less. 
+Scheduling 
+A project schedule is the representation of a spe­cific construction work plan concerning the sequencing of work and the deployment of resources. It is technically possible to stretch the construction of the ciudadela over decades using a small number of workers or to work in seasonal or intermittent spurts. Similarly, intensifying the effort by using more workers than the optimum can reduce the construction time, although a loss of overall productivity is likely. Each case introduces any number of specific assumptions, and while it is possible to simulate these options, the purpose here is not to test every possibility but to demon­strate the methodology and establish baselines of how long the project could have or should have taken under normal circumstances. This baseline approach assumes that each construction episode worked continuously in a relatively diligent and efficient manner. 
+
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+Table 6. Recap of Productivity Rates for Ciudadela Rivero. 
+
+Labor hours per unit of measure  Crew  
+Activity  uom  Optimistic M ost Likely Pessimistic  Size  
+Hand excavation  CM  4.90  6.00  7.30  I  
+Excavate walk-in wells  CM  4.90  6.00  7.30  I  
+Manufacture adobes  CM  5.20  7.00  7.50  5  
+adobes  CM  6.70  7.80  9.00  I  
+Erect adobe structures  CM  8.70  9.90  11 .00  5  
+Erect adobe walls 0-3m  CM  8.70  9.90  11 .00  5  
+Erect adobe walls 3-6m  CM  12.20  13.80  15.40  5  
+Erect adobe walls 6-9m  CM  15.70  17.70  19.80  5  
+Erect tapia walls 0-3m Erect tapia walls 3-6m  CM CM  8.50 11 .90  10.70 14.90  12.80 17.90  5 5  
+Erect  walls 6-9m  CM  15.40  19.20  23.00  5  
+Plaster walls 0-3m  SM  0.57  0.83  0.98  2  
+Plaster walls 3-6m  SM  0.86  1.25  1.47  2  
+Plaster walls 6-9m  SM  1.15  1.66  1.96  2  
+Harvest algorrobo  LM  2.60  3.25  3.90  4  
+Fabricate roof panels  EA  23.90  29.80  36.50  2  
+Erect roof  EA  3.20  4.00  4.80  2  
+
+CM= cubic meters SM= square meters LM=linear meters EA=each 
+Table 7. Distribution or Labor Hours by Area and Work Type. 
+Total Pct of By Area Estimated TotalLabor Hours 
+
+Sitework -General Excavation 259,296 12.2% Massive Tapia Walls 369,152 17.4% Massive Adobe Walls 319,184 15.0% North Sector 383,544 18.1% Central Sector 786,552 37.0% Conchone 0.3% Total 2,123,784 100% 
+Total Pct of By Work Type Estimated Total
+
+Labor Hours Excavation 259,290 12.2% Manufacturing Adobes 551,972 26.0% Transporting Adobes 481,002 22.6% Installing Adobes 340,944 16. 1% Plastering 93,609 4.4% Tapia work 379,907 17.9% Cana / Roofing 0.8% 
+Total 2,123,784 100% 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+100  
+90  95%probability of  
+80  85%probbility of completing the project  completing the pmject in 2,136.000 labor hours  
+­ 70  in 2.123.784 labor hours  
+co_oeCl........s:::(I)uCiiCl..  60 50 40 30  
+20  
+10  
+0  
+Figure 10. Estimated cost probability graph for Ciudadela Rivero. 
+
+
+10 
+7 
+­us:::6 (!):::1­
+!!!
+lL
+......
+s::: 4 (!) 
+(!)Cl.. 
+0 
+
+
+2040000 2055000 2070000 2085000 2100000 2115000 2130000 2145000 2160000 2175000 Cost in Labor Hours 
+Construction Work Plan. There are numerous possible strategies and alternatives for construct­ing the compound. Factors influencing the plan include limitations of technology, physical limita­tions of the materials and space, visible evidence of sequencing in the architecture itself, and con­structability. A good example of this overall approach is Topic's work at Viracochapampa. From a detailed examination of the ruins, it is possible to make reasonable assumptions about construction means and methods, crew sizes, number of crews, and sequence of construction (Topic 1991). 
+Additionally, cultural factors may influence the priorities and affect the plan. The architecture, with its high walls, narrow walkways, differing eleva­tions, and limited visibility, indicates that privacy and restricted access are primary concerns. By working in a general north-south direction, and completing the north sector first, ceremonial func­tions could take place in the more public areas of the compound, while the more private central sec­tor, separated by the central dividing wall, is still under construction. Closing in the entire compound except the south end provides the most restricted access and privacy during the construction process. 
+Therefore, the overall construction plan presented here calls for using the area to the south and south­west of the compound for construction operations and housing and building the interior from north to south. 
+Building north to south requires erecting the north, east, and west tapia walls first, leaving the south end open for access. The first activities on the site involve general excavation to level the site and dig the walk-in wells necessary to provide potable water for workers and to mix tapia and plaster. When the excavation is sufficiently com­plete, construction begins on the massive tapia walls. Once the tapia walls have reached roughly 3 m in height, the compound is secure from access and view from the outside, with the exception of the south end. At this point, construction begins on the interior structures in the north sector. Adobes are manufactured in the areas south of the com­pound and then transported through the open south end to their destination, while mud mortar and plas­ter are mixed on-site. 
+The general layout of the interior consists of storerooms and audiencia structures enclosed in individual courts or complexes connected by nar-
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+
+row passageways between the walls. The con­struction strategy for each complex is to build the interior structure(s) first, erecting the enclosing walls and then backing out to construct the next complex. Building the interior enclosure walls before the structures is technically possible but extremely inefficient and unlikely, since it requires the workers and materials to constantly navigate the narrow labyrinth-like corridors. 
+Once the central dividing wall is complete, the north sector is fully functional and secure while work progresses on the balance of the ciudadela. Work on the central sector flows north to south, with the burial mound consuming the most resources. Finally, the ciudadela is complete with the closure of the south walls. 
+Labor Organization. Adobe construction is a straightforward repetitive process. Although the approach taken here breaks the work into specific types of tasks, none of the tasks require skilled labor. While some tasks may be specialized, such as caiia roofing, workers are essentially inter­changeable throughout the project. 
+In this context, there is nothing to exclude either the task specialization and differentiation or the work party organization from consideration. Task special ization is most efficient when multiple groups of workers perform their tasks so that con­struction activities proceed in parallel. In this case, each group is dependent upon other groups to per­form their tasks in a timely manner. Consequently, coordination of the construction is required between groups, requiring high-level supervision. On the other hand, groups can complete activities in advance, such as adobe making, which creates some flexibility in scheduling. Task specialization also tends to exhibit productivity improvements due to the effects of the learning curve. 
+Work parties responsible for all activities to pro­duce a specified quantity of work tend to create ser­ial construction sequences that generally extend the length of the schedule. Construction coordina­tion stays within the group. However, work parties composed of large kin-based groups such as vil­lages or moieties can achieve the same task differ­entiation and learning curve effects as the task specialization model . 
+One physical indicator of the use of work par­ties is segmented construction. Assigning a work party a specified unit of physical work tends to ere-ate noticeable breaks and joints in the construction that are not the result of normal construction prac­tices. There is no conclusive evidence of segmented construction at Ciudadela Rivero. All horizontal and vertical joints observed in the walls are con­sistent with the observed construction techniques. Vertical caiia poles in the tapia and adobe walls are not necessarily indicators of segmented construc­tion as previously suggested (Moseley l 975b:40), since they serve the specific purpose of maintain­ing alignment of the wall. Additionally, adobes at Chan Chan have no makers' marks that provide additional evidence of segmentation as at other sites in the Moche Valley. 
+Under a mit ' a labor tax system, large groups of people, such as a village, were responsible to the state for periodically providing a certain amount of labor for communal infrastructure. The lack of evi­dence of segmentation or makers ' marks at Chan Chan does not imply that a mit ' a labor tax was not in place, only that the physical evidence for work parties producing a measured quantity of work is absent. Perhaps that tax took a different form than a measured output of work, such as an obligation of time rather than physical output, or the output was measured at a scale much larger than individ­ual bricks or elements of the structure. If Chan Chan was divided into two or more moieties, and ciudadelas were built in pairs, then it is possible that the measured unit of work was the entire ciu­dadela itself. 
+While the majority of the actual construction work was performed by unskilled or semiskilled labor, there is no doubt that the building of the ciu­dadelas at Chan Chan was purposefully planned on the macro as well as micro level. The overall function and layout of the various compounds were designed and directed by the equivalent of a mas­ter builder or royal architect, perhaps even a mem­ber of the royal family. Under the architect would be an entire cadre of specialized and skilled work­ers working full-time to design, plan, and super­vise the construction. Rather than a mit ' a labor structure, these skilled management functions could be performed by yanakuna, people working for the state in a full-time capacity and, in this case, closely associated with the royal households (Topic 2009). The yanakuna would fill the contemporary positions of urban planners, architects, engineers, and project managers and provide the technical, 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+
+administrative, and organizational expertise required. 
+Optimum Schedule. The schedule representing the quickest practical completion of the ciudadela assumes unlimited labor available on an as-needed basis. Based on the most likely durations, and a five­day, 40-hour workweek, the estimated completion time is 61 calendar months. This schedule neces­sitated peak labor utilization ranging from between 200 and 400 workers and the requirement to call upon and release large numbers of workers on a short-term basis. While this may be an untenable situation in modem terms, it does take advantage of the adaptability inherent in the mit' a labor sys-tern. However, precise long-term planning and close coordination would be required in order to maintain this accelerated construction pace. From this starting point, an optimum schedule was cre­ated that smoothed out some of the labor variabil­ity, increased the overall labor predictability, and in general produced a certain amount of breathing room in the overall plan. Limiting the overall num­ber of workers and allowing more flexibility in timing yielded a completion time of 67 calendar months, with an average peak labor requirement of 250 workers (Figure 11). 
+Probabilistic Testing. Using the full range of optimistic, pessimistic, and most likely durations, 
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+% 
+
+100 18 
+95% pcob.ahility of 
+projectin 2140 
+da)S or 70mool:m. 
+70 
+16 
+14 
+
+>.  12  
+&J  
+m  10  
+
+0 so 
+c 
+"° 
+(I) 
+Q) 
+JO 
+29% pmb.;.bili ty of. 
+8 c 
+pcqj,ec;t in 2048 da)I! <K 67 maitm 6 
+4
+21:) 
+10 
+(l 
+
+192:1 19&1 2':UO roao :me 21&i
+Calendar Da s 
+Figure 12. Schedule probability graph for Ciudadela Rivero. 
+the schedule indicated only a 30 percent probabil­ity of finishing within the deterministically derived end date of 67 months, although a 95 percent prob­ability occurred at 70 months (Figure 12). 
+Conclusions 
+
+The total labor investment in the original configu­ration of Ciudadela Rivero is roughly 2.1 million hours. A workforce of roughly 250 persons work­ing continuously could have constructed Ciudadela Rivero in 67 months, based on a five-day, 40-hour workweek. These estimates and schedules repre­0sent practical and achievable objectives under nor­
+' mal circumstances and are the baseline for comparisons to other structures and labor organi­zation strategies. 
+Impact On Archaeological Theory 
+Split Inheritance 
+Also known as the one king/one compound theory, split inheritance posits that while earlier com­pounds were occupied for several generations, the latter compounds were built sequentially and occu­pied by successive rulers (Kolata 1990: 133; Mose­ley 1982: 15; T.Topic 1982:282). Conrad explicitly states the theory: 
+The major compounds of Chan Chan were the palaces of the kings of Chimor. Each ruler built one such structure to house himself, be the seat of government, and serve as the center for the management of his wealth. In accordance with a law of split inheritance, the palace passed to the king's corporation of secondary heirs after his death. His principal heir became the next king of Chimor and built a new palace [1982: 108] . 
+
+To satisfy this theory, the construction of the new palace would be rapid to the point of being achiev­able in a time frame well within the lifetime of a king. Since the ciudadela is the seat of power and administration, it is in the best interest of a new king to build and occupy the new ciudadela as rapidly as possible. The estimated six-year construction time for Ciudadela Rivero easily fits within the normal lifetime of a ruler. However, Ciudadela 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+Rivero is the smallest of all the compounds, so to satisfy the time requirements of the one king/one compound theory, the estimated construction time of each of the compounds must be within a life­time. 
+
+The largest of the compounds , Laberinto , Velarde, and Gran Chimu, are up to 2.5 times larger in area than Rivero. Since the layouts of the com­pounds are similar, with nearly the same propor­tion of built vs. open spaces, extrapolating the labor cost of Rivero based on area gives a rough estimate of the labor investment of the other compounds. However, the massive walls surrounding Rivero are made of tapia, which is half the labor cost of adobe. Therefore, the estimate for Rivero must be adjusted to reflect the added cost of massive adobe walls rather than tapia. Doubling the labor hours of the tapia walls achieves this and yields an estimate of approximately 2.5 million labor hours. A compar­ison of the estimated labor hours between Rivero and Gran Chimu, the largest compound, would be roughly linear, meaning that Gran Chimu would require on the order of six million labor hours. 
+The major factor controlling the construction time of a compound is space, measured by the num­ber of workers who could work in an area at any given time. The number of workers who could physically work on the perimeter walls and inte­rior structures limited the size and numbers of crews assigned to build Rivero. The much larger size of Gran Chimu allows many more workers to build simultaneously. If Gran Chimu is approximately 
+2.5 times as large as Rivero, then a conservative estimate of the average number of workers able to work is 500, or twice that of Rivero. At that level of staffing, the estimated construction time for Gran Chimu is approximately nine years. Providing that the necessary labor was available, the evidence strongly suggests that, in terms of construction time, building a new compound for each new king was achievable. 
+Dual Rule 
+Dual and quadripartite organization of society finds architectural expression throughout the Andes (Netherly 1990:463; Netherly and Dillehay 1986: 86; Rostworowski 1990:457). At Chan Chan, the theory of dual rule suggests that rather than sequentially, the last four ciudadelas were built concurrently as pairs (Cavallaro 1988; Moseley 1990:11; Netherly 1990:483). That "rapid con­struction of the last four ciudadelas is compatible with the rise and formulation of quadripartition" (Moseley 1990:24). 
+The last four compounds built were Velarde, Ban de lier, Tschudi, and Rivero (Kolata 1990: 129). Table 8 lists the compounds and their relative areas compared with Rivero. The approximate labor hours for the three other compounds are factored as shown earlier based upon the relative areas com­pared with the adjusted estimate for Rivero based on adobe walls. Similarly, a conservative estimate of the number of workers able to work on con­struction yields the estimated project durations for each of the compounds. 
+Constructing Velarde and Bandelier as a pair requires an average workforce of approximately 600 workers in 8.3 years. While at Tschudi and Rivero 500 workers could complete the compounds in 8.5 years. The data indicate that 1,100 workers could accomplish building all four compounds simultaneously in 8.5 years, accounting for almost 12 million labor hours . 
+While building the last four compounds simul­taneously requires more than a fourfold increase in labor over constructing Ciudadela Rivero alone, it is still within reasonable limits given the local pop­ulation. In terms of labor requirements and con­struction times, these data suggest that dual rule or quadripartitioning was feasible. 
+Conclusions 
+Chan Chan 
+While substantial in size and scale , the labor requirement of250 workers to construct Ciudadela Rivero is quite modest, especially since an esti­mated 30,000 persons inhabited Chan Chan dur­ing its final phase (Topic and Moseley 1983: 157). Even doubling the average labor force to an aver­age of 500 workers in an attempt to crash the sched­ule to its shortest possible duration represents a relatively minor part of the population dedicated to construction. 
+There does not appear to be the need to import workers from surrounding areas (Mackey 1987:127; Mackey and Klymyshyn 1981: 104), since redirecting a small portion of the resident population to constructing a single ciudadela seems 
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+Table 8. Estimated Labor and Construction Time for Four Ciudadelas. 
+Estimated 
+
+Area relative to Estimated Number of 
+Compound construction tirre 
+Rivero hours ¥.Orkers 
+(in years) 
+
+Rivero• 1 0 2,500,000 250 
+•Rivero estimates o<ljusted ti> mdude ado be rather than tapia .....,11,. 
+Velarde 1.4 3 500 000 300 8.3 
+Bandeher 
+Totals for both 
+000 300 7.7 
+
+6 750 000 600 8.3 
+Tschudi 1.2 
+Rivero wit ia 1 0 
+Totals for both 
+Total for 4 co ounds 
+entirely feasible. Even the most aggressive build­ing program represented by the simultaneous con­struction of the last four compounds does not have enough impact to cause any major shifts in the local economy. 
+Due to the manageable size of the workforce, it is possible that the residents of Chan Chan bore the tax levied to construct the ciudadelas, while the rural population met their obligations at or near their own region. From a purely construction standpoint, rotating groups from within the resident population gives considerably more control and flexibility to the builders than coordinating, feeding, and hous­ing workers from a distant community. In addition, relying upon the nonagricultural resident workers has the advantage of eliminating the seasonal avail­ability of workers. If workers living outside of Chan Chan performed the construction, the decision to use outside labor rather than the resident popula­tion was one of choice not necessity. Regardless of the geographic origin of the mit ' a labor, it is clear that the project management functions of design, construction, and coordination of resources neces­sitated a group such as the yanakuna: highly skilled, full-time persons working in service to the state liv­ing in close proximity to the urban core. 
+One of the foundations of ancient Andean soci­eties, the ability to mobilize large workforces to construct monumental architecture, had its begin­nings on the north coast of Peru (Moseley 1975b:40; Schwartz l 982:x). While more labor­intensive efforts are evident in structures such as the Pyramids of the Sun and Moon in the Moche Valley, it is difficult to extend the concept of con­trolling massive workforces to the construction of the ciudadelas at Chan Chan. In light of this research, theories concerning the control of mass labor and social complexity based solely on the size and scale of the monumental architecture of Chan Chan need revisiting. 
+Project Management 
+The intent of the original research for this project was to introduce and demonstrate the applicability of modem construction project management to.ols and techniques to the analysis of ancient structures. 
+· 
+Labor quantification, estimating, and scheduling are the core skill sets of construction profession­als. Numerous researchers have demonstrated the validity and beneficial use of these types of data as components in examining social constructs. The methodologies shown here are industry standards instantly recognizable by construction profession­als and project managers worldwide. This encour­ages standardization of approach with consistent and reproducible results. The use of probabilistic estimating and scheduling offers a method to quan­tify the uncertainty inherent in the process. The final purpose is to enlighten the archaeological community about the types of contributions con­struction professionals in academia and private practice can make to analyzing ancient construc­tion and to the overall understanding of the past and to encourage future collaboration. 
+
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+Acknowledgments . I appreciate the time, effort, and support provided by Drs. Michael E. Moseley and Brisbane H. Brown. My thanks go to Ana Maria Hoyle Montalva, direc­tor of the National Institute of Culture in Trujillo, Peru, with­out whom the initial field research back in 1999 would not have been possible. I am especially grateful to Quentin Wilson, of Northern New Mexico Community College, for unselfishly sharing his expertise in adobe construction. I thank the many reviewers who gave their time and attention to help ensure the quality and presentation of the data. The National Science Foundation and the Holland Fund at the M. 
+E. Rinker, Sr., School of Building Construction at the University of Florida generously provided the funding for this research . 
+References Cited 
+American Council for Construction Education 
+2009 Standards and Criteria for Accreditation of Postsec­ondary Construction Education Degree Programs. Amer­ican Council for Construction Education, Doc. 103. Electronic document,http://www.acce-hq.org/documents/ DOCUMENT103080906_002.pdf, accessed October 30, 2009 . 
+Abrams , Elliot M. 1994 How the Maya Built Their World: Energetics and Ancient Architecture. University of Texas Press, Austin. Abrams, Elliott M., and Thomas W. Bolland 
+1999 Architectural Energetics, Ancient Monuments, and Operations Management. Journal of Archaeological Method and Theory 6:263-29 1. 
+Arnold, Jeanne E., and Annabel Ford 1980 A Statistical Examination of Settlement Patterns at Tikal, Guatemala. American Antiquity 45( 4):71 3-726. Bleed, Peter 1991 Operations Research and Archaeology. American Antiquity 56(1):19-35 . Burger, Richard, and Lucy Salazar-Burger 
+1991 The Second Season of Investigations at the Initial Period Center of Carda! , Peru. Journal of Field Archaeol­ogy 18(3):275-296. 
+Cavallaro, Raffael 
+1988 Architectural Analysis and Dual Organization in the Andes. Unpublished Ph.D. dissertation, Department of Anthropology, Harvard University, Cambridge . 
+Conrad, Geoffrey W. 
+1982 The Burial Platforms of Chan Chan: Some Social and Political Implications. In Chan Chan: Andean Desert City, edited by Michael E. Moseley and Kent Day, pp. 87-1 17. University of New Mexico Press, Albuquerque. 
+Day, Kent 
+1973 The Architecture of Ciudadela Rivero, Chan Chan, Peru. Unpublished Ph.D. dissertation, Department of Anthropology, Harvard University, Cambridge. 
+Erasmus, Charles J. 1965 Monument Building: Some Field Experiments. South­western Journal of Anthropology 21 :277-30 1. Goldratt, Eliyahu M. 1988 Computerized Shop Floor Scheduling. International Journal of Production Research 26:443-455. 1992 The Goal: A Process of Ongoing Improvement. North River Press, Great Barrington, Massachusetts. Hinze, Jimmie 2008 Construction Planning and Scheduling. Pearson Pren­tice Hall, Upper Saddle River, New Jersey. 
+Kaplan, David 1963 Men, Monuments . and Political Systems. Southwest­ern Journal of Anthropology I9:397-409. Kolata, Alan Louis 
+1990 The Urban Concept of Chan Chan. In The Northern Dynasties: Kingship and Statecraft in Chimor, edited by Michael E. Moseley and A. Cordy Collins, pp. 107-144. Dumbarton Oaks Research Library and Collection, Wash­ington, D.C. 
+Mackey, Carol J. 
+1987 Chimu Administration in the Provinces. In The Ori­gins and Development of the Andean State, edited by Jonathan Haas, Shelia Pozorski, and Thomas Pozorski , pp. 121-144. Cambridge University Press, Cambridge. 
+Mackey, Carol J., and Alexandra M. Ulana Klymyshyn 1981 Construction and Labor Organization in the Chimu Empire. Nawpa Pacha 19:99-109. Mackey, Carol J., and Michael Edward Moseley 1974 Twenty-Four Architectural Plans of Chan Chan, Peru. Peabody Museum Press, Harvard University, Cambridge. McHenry, Paul Graham I 984 Adobe and Rammed Earth Buildings: Design and Construction. Wiley, New York . Moore, Jerry D. 
+1996 Architecture and Power in the Ancient Andes: The Archaeology of Public Buildings. Cambridge University Press, Cambridge. 
+Moseley, Michael E. l 975a Chan Chan: Andean Alternative of the Preindustrial City. Science 187(4173):219-225. 1975b Secrets of Peru's Ancient Walls. Natural History 84(1):34-40. 
+1982 Introduction: Human Exploitation and Organization on the North Andean Coast. In Chan Chan: Andean Desert City, edited by Michael E. Moseley and Kent Day, pp. 1-24. University of New Mexico Press, Albuquerque. 
+1990 Structure and History in the Dynastic Lore of Chimor. In The Northern Dynasties: Kingship and Statecraji in Chimor,edited by Michael Moseley and A. Cordy Collins. pp. 1-41. Dumbarton Oaks Research Library and Collec­tion, Washington, D.C. 
+Netherly, Patricia 1. 1990 Out of Many, One: The Organization of Rule in the North Coast Polities. In The Northern Dynasties: King­ship and Statecraft in Chimor, edited by Michael E. Mose­ley and A. Cordy Collins, pp. 461-485. Dumbarton Oaks Research Library and Collection, Washington, D.C. 
+Netherly, Patricia J., and Tom D. Dillehay 1986 Duality in Public Architecture in the Upper Zana Val­ley, Northern Peru. In Perspectives on Andean Prehistory and Protohistory, edited by Daniel H. Sandweiss and D. Peter Kvietok, pp. 85-1 14. Cornell University Press. Ithaca. 
+Norton, John l 997 Building with Earth, a Handbook. Intermediate Tech­nology, London. Patterson, Thomas C. 
+1985 The Huaca La Florida. In Early Ceremonial Archi­tecture in the Andes, edited by Christopher B. Donnan, pp. 59-69. Dumbarton Oaks, Washington, D.C. 
+Pozorski, Thomas 1980 The Early Horizon Site of Huaca del los Reyes: Soci­etal Implications. American Antiquity 45(1): 100-1 10. Project Management Institute 
+2008 A Guide to the Project Management Body of Knowl­edge, 4th ed. Electronic document. http://www.pmi.org/, accessed October 30, 2009. 
+
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+Renfrew, Colin I 973a Before Civilization: The Radiocarbon Revolution and Prehistoric Europe. Knopf, New York. 
+l973b Monuments, Mobilization, and Social Organization in Neolithic Wessex. In The Explanation of Culture Change: Models in Prehistory, edited by Colin Renfrew, pp. 539-558. University of Pittsburgh Press, Pittsburgh. 
+Rostworowski, Maria de Diez Canseco 1990 Ethnohistorical Considerations about the Chimor. In 
+The Northern Dynasties: Kingship and Statecraft in Chi­mor, edited by Michael E. Moseley and A. Cordy Collins, pp. 447-460 . Dumbarton Oaks Researh Library and Col­lection, Washington, D.C. 
+Rowe, John Howland 1948 The Kingdom of Chimor. Acta Americana 6( 1-2):26-59. Schwartz, Douglas W. 
+1982 Foreword. In Chan Chan: Andean Desert City, edited by Michael E. Moseley and Kent Day. University of New Mexico Press, Albuquerque. 
+Smailes, Richard L. 2000 Building Chan Chan: The Application of Construc­tion Project Management to the Analysis of Ancient Archi­tecture. Ph.D. dissertation, University of Florida. University Microfilms, Ann Arbor. Electronic document, http://web.dcp.ufl.edu/rsmailes/. 
+Topic, John R. 1990 Craft Production in the Kingdom of Chimor. In The Northern Dynasties: Kingship and Statecraft in Chimor, edited by Michael E. Moseley and A. Cordy Collins, pp. 145-176. Dumbarton Oaks Research Library and Collec­tion, Washington, D.C. 1991 Huari and Huamachuco. In Huari Administrative Structure: Prehistoric Monumental Architecture and State Government, edited by William H. Isbell and Gordon F. McEwan, pp. 148-153. Dumbarton Oaks Research Library and Collection, Washington, D.C. 2009 Domestic Economy as Political Economy at Chan Chan, Peru . In Domestic Life in Prehfapanic Capitals: A Study of Specialization, Hierarchy, and Ethnicity, edited by Linda R. Manzanilla and Claude Chapdelaine, pp. 239-240. Memoirs of the Museum of Anthropology, Uni­versity of Michigan, No. 46. 
+Topic, John R., and Michael E. Moseley 1983 Chan Chan: A Case Study of Urban Change in Peru. Nawpa Pacha 21:153-182. Topic, Theresa Lange 
+1982 The Early Intermediate Period and Its Legacy. In Chan Chan: Andean Desert City, edited by Michael E. Moseley and Kent Day, pp. 255-284. University of New Mexico Press, Albuquerque. 
+Trietsh, Dan 2005 Why a Critical Path by Any Other Name Would Smell Less Sweet? Project Management Journal 36(1):27-36. Webb, Clarence H. 1 977 The Poverty Point Culture. Geoscience and Man, Vol. 
+17. School of Geoscience, Louisiana State University, Baton Rouge. 
+Note 
+To a large extent this article is a summarization of work done as part of my Ph.D. dissertation. Due to audience and length considerations, many areas or explanations were edited or left out entirely. More fully developed data are available in the source documentation, which is available at http://web.dcp.ufl.edu/rsmailes/. Topics addressed more fully include 
+* Task specialization vs. work parties 
+* Mit' a taxes 
+* 
+Productivity including length of workweek 
+
+* 
+Detailed construction techniques and processes 
+
+* 
+Detailed construction planning and sequencing 
+
+
+* Construction of tapia walls Also available are pictures and videos produced from the 3­D virtual model of Ciudadela Rivero. 
+Submitted August 5, 2009; Accepted September 5, 2009; January 9, 2011 . 
+
+
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+
+The Society for American Archaeology is pleased to announce the full-text, online version of Latin American Antiquity 1990-2008. To find out whether your library is a JS TOR participant, please email jstor-info@umich.edu. If you are not at a participating institution, as a current member you can access 
+both the Latin American Antiquity and American Antiquity archives for just $25 per calendar year. 
+Members who have already paid for Latin American Antiquity can access American Antiquity at no 
+additional charge. SAA members who live in Latin America or countries with discounted rates* can 
+access the archive for just $5.00 per calendar year. 
+
+To be able to search the American Antiquity and Latin American Antiquity archives in full-text, please print out the JS TOR form from SAA web (http://www.saa.org/AbouttheSociety/Publications/JSTOR/tabid/986/Default.aspx), and fax + 1 (202) 789-0284 or mail the signed form with payment to: 
+The Society for American Archaeology 
+
+Manager, Information Services 
+900 Second Street NE # 12 
+Washington DC 20002-3560 
+
+Member ID #: 
+Payment Type (Check one): 
+Check enclosed made out to SAA 
+
+Credit Card (circle type): AMEX Visa Mastercard 
+Card #: Expiration Date: 
+*Upon processing of payment, SAA will send you an email message with your password and 
+instructions of how to access the archive. 
+
+*Agreement with SAA: I agree that I will use the database for my personal use only and will not share my user name, password, or access with other individuals or institutions. 
+
+JSTOR is an independent not-for-profit organization with a mission to create a trusted archive of scholarly journals and to increase access to those journals as widely as possible. The JS TOR database consists of the complete backfiles of over 240 scholarly journals and is available to researchers through libraries. For additional information on JSTOR, please visit www.jstor.org. 
+*Standard Rate applies to members living in Australia, Bahrain, Bermuda, Brunei, Canada, Cyprus, Israel, Japan, Korea, Kuwait, Libya, New Caledonia, New Zealand, Qatar, Saudi Arabia, Sultanate of Oman, Singapore, Taiwan, United Arab Emirates, United States, or Western Europe. Discount Rate applies to members living in Latin America or any other country not included above. 
+Downloaded from https://www.cambridge.org/core. YBP Library Services, on 22 Aug 2018 at 17:31:18, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.7183/1045-6635.22.1.37 
+
