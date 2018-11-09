@@ -38,5 +38,5 @@ params = getJsonFromUrl(window.location)
 for (key in VIS.files){
 	console.log(key)
 	console.log(VIS.files[key])
-	VIS.files[key] =  "/dfr_data/" + params.model.split("#")[0] + "/" + VIS.files[key].split("/")[1]
+	VIS.files[key] =  "dfr_data/" + params.model.split("#")[0] + "/" + VIS.files[key].split("/")[1]
 }
