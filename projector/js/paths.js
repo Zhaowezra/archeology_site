@@ -5,14 +5,14 @@ let params  = getJsonFromUrl(window.location.search);
 
 //var file = "/static/projector/w2vdata/" + params.basew2vmodel + ".json"
 
-var file = "/all_arch_w2v.json"
+var file = "all_arch_w2v.json"
 
 ldanames = params.ldamodels.split(",")
 var ldafiles = { "None": ""}
 
 
 ldanames.forEach(function(d){
-	ldafiles[d] = "/dfr_data/" + d + "/"
+	ldafiles[d] = "dfr_data/" + d + "/"
 })
 
 
