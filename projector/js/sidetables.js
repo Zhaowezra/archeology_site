@@ -381,7 +381,7 @@
 			//var doc_response = await d3.json("/static/projector/es_stub/dna_response.json")
 			var basemodel = params.basew2vmodel;
 
-			jQuery.get('/new_text_files/' + newname, function(text) {
+			jQuery.get('new_text_files/' + newname, function(text) {
    			console.log();
 
 			d3.select("#single-doc-alert").classed("hidden", true)
