@@ -382,7 +382,7 @@
 			var basemodel = params.basew2vmodel;
 
 			jQuery.get('new_text_files/' + newname, function(text) {
-   			console.log();
+
 
 			d3.select("#single-doc-alert").classed("hidden", true)
 			var doc_obj = text
@@ -421,9 +421,6 @@
 					}
 				})
 				.style("background-color", function(d){
-					//console.log(d.toLowerCase().trim())
-					//console.log(data[d.toLowerCase().trim()])
-					console.log(data["creek"])
 					if (data[d.toLowerCase()] != undefined){
 						return "lightblue"
 					}
